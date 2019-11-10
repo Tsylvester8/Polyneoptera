@@ -1,0 +1,11 @@
+_mainType Run_Fix_Param
+_dataFile ../mod.comp/Blattodea_sensu_stricto/8/Blattodea_sensu_stricto.count.txt
+_treeFile ../mod.comp/Blattodea_sensu_stricto/8/Blattodea_sensu_stricto.tre
+_outDir ../mod.comp/Blattodea_sensu_stricto/8/results
+_maxChrNum 42
+_minChrNum 7
+_branchMul 1
+_simulationsNum 0
+_gainConstR 0.444615083238294
+_lossConstR 0.486347348473718
+_duplConstR 0.0040872866389361

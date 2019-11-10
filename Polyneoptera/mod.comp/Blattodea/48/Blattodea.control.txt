@@ -1,0 +1,11 @@
+_mainType Run_Fix_Param
+_dataFile ../mod.comp/Blattodea/48/Blattodea.count.txt
+_treeFile ../mod.comp/Blattodea/48/Blattodea.tre
+_outDir ../mod.comp/Blattodea/48/results
+_maxChrNum 51
+_minChrNum 7
+_branchMul 1
+_simulationsNum 10000
+_gainConstR 0.0719866824327535
+_lossConstR 0.060662447852288
+_duplConstR 0.00140398447951946

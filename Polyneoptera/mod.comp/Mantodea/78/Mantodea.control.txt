@@ -1,0 +1,11 @@
+_mainType Run_Fix_Param
+_dataFile ../mod.comp/Mantodea/78/Mantodea.count.txt
+_treeFile ../mod.comp/Mantodea/78/Mantodea.tre
+_outDir ../mod.comp/Mantodea/78/results
+_maxChrNum 19
+_minChrNum 6
+_branchMul 1
+_simulationsNum 10000
+_gainConstR 0.00569477706104728
+_lossConstR 0.00349586325294345
+_duplConstR 0.00694490184038811

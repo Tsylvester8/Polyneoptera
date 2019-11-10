@@ -1,0 +1,11 @@
+_mainType Run_Fix_Param
+_dataFile ../mod.comp/Phasmatodea/82/Phasmatodea.count.txt
+_treeFile ../mod.comp/Phasmatodea/82/Phasmatodea.tre
+_outDir ../mod.comp/Phasmatodea/82/results
+_maxChrNum 42
+_minChrNum 9
+_branchMul 1
+_simulationsNum 10000
+_gainConstR 0.0689249600313656
+_lossConstR 0.283957013536554
+_duplConstR 0.0268826647531148

@@ -1,0 +1,222 @@
+#Nodes with GAIN events with expectation above 0.5
+N2: 4.33125
+N4: 3.29197
+N6: 0.794939
+N8: 1.80457
+Acanthoxyla_geisovii: 2.54593
+N9: 1.63604
+N10: 1.41582
+Ctenomorpha_sp: 2.1218
+Extatosoma_tiaratum: 2.41524
+N11: 0.587204
+N12: 1.31023
+Acrophylla_titan: 2.14762
+Phobaeticus_sp: 2.38691
+Podacanthus_wilkinsoni: 3.39986
+N13: 2.03484
+N15: 0.699385
+N17: 0.909675
+Bacillus_atticus: 0.79852
+Bacillus_grandii_grandii: 0.79852
+Bacillus_grandii_benazzii: 1.73255
+Bacillus_lynceorum: 1.57477
+N18: 1.416
+N19: 0.967436
+N20: 0.517868
+Clonopsis_maroccana: 1.32583
+N21: 3.01351
+Leptynia_caprai: 0.595679
+Carausius_morosus: 4.3544
+N25: 1.73752
+Orxines_sp: 3.21758
+N26: 1.29256
+Pseudophasma_sp: 1.31635
+Sipyloidea_sipylus: 1.24634
+Phalces_sp: 4.74593
+N27: 7.56863
+Bacillus_rossius: 1.00626
+Baculum_sp: 0.953356
+Phyllium_bioculatum: 8.86729
+N28: 12.5079
+Timema_poppensis: 0.512552
+Timema_shepardi: 0.512552
+Total number of gain events: 100.378
+#+++++++++++++++++++++++++++++
+
+#Nodes with LOSS events with expectation above 0.5
+N2: 11.3163
+N3: 0.987698
+N4: 7.9343
+N5: 0.889942
+N6: 2.02362
+N7: 0.605609
+N8: 4.05135
+Acanthoxyla_geisovii: 5.00572
+N9: 3.96531
+Acanthoxyla_inermis: 1.32368
+Clitarchus_hookeri: 1.32368
+N10: 3.60847
+Ctenomorpha_sp: 6.43784
+Extatosoma_tiaratum: 5.13069
+N11: 1.46842
+N12: 3.23236
+Acrophylla_titan: 6.1315
+Phobaeticus_sp: 7.19578
+Podacanthus_wilkinsoni: 8.2049
+N13: 5.2196
+N14: 1.00047
+N15: 1.63179
+N17: 1.85236
+Bacillus_atticus: 2.15771
+Bacillus_grandii_grandii: 2.15771
+Bacillus_grandii_benazzii: 4.07724
+Bacillus_lynceorum: 7.345
+N18: 4.21868
+N19: 1.89412
+Clonopsis_maroccana: 3.35582
+N21: 5.60103
+Leptynia_attenuata: 1.64861
+Leptynia_montana: 1.06491
+N23: 0.980711
+N24: 0.791
+Carausius_morosus: 13.5265
+N25: 4.63034
+Orxines_sp: 7.30218
+N26: 3.97374
+Pseudophasma_sp: 5.70054
+Sipyloidea_sipylus: 4.60025
+Phalces_sp: 11.6686
+N27: 18.9974
+Bacillus_rossius: 2.48816
+Baculum_sp: 2.9275
+Phyllium_bioculatum: 22.0369
+N28: 35.2142
+Timema_poppensis: 1.8031
+Timema_shepardi: 1.8031
+Total number of loss events: 263.518
+#+++++++++++++++++++++++++++++
+
+#Nodes with duplication events with expectation above 0.5
+N2: 0.508302
+N4: 0.554341
+Acanthoxyla_geisovii: 0.548196
+Ctenomorpha_sp: 0.647673
+Extatosoma_tiaratum: 0.68464
+Acrophylla_titan: 0.575178
+Phobaeticus_sp: 1.10956
+Podacanthus_wilkinsoni: 0.82325
+Bacillus_lynceorum: 1.09931
+N19: 0.57779
+Clonopsis_soumiae: 0.999845
+N21: 0.710711
+Carausius_morosus: 1.46163
+Orxines_sp: 0.69889
+Sipyloidea_sipylus: 1.10218
+Phalces_sp: 1.00746
+N27: 1.38715
+Baculum_sp: 1.15811
+Phyllium_bioculatum: 1.57258
+N28: 1.83866
+Total number of duplication events: 23.2497
+#+++++++++++++++++++++++++++++
+
+#Nodes with demi-duplication events with expectation above 0.5
+Total number of demi-dulications events: 0
+#+++++++++++++++++++++++++++++
+
+#EVENTS NOT ACCOUNTED FOR IN THE SIMULATIONS: 
+N19:ML=18 to Clonopsis_gallica:ML=27  ProbOfChange = 1  sum expections= 0.00383587
+	HEURISTIC ESTIMATION:	Gains = 0	Losses = 5	Duplications = 1	Demi-dupl = 0
+#+++++++++++++++++++++++++++++
+
+#ALL EVENTS EXPECTATIONS PER NODE
+NODE	GAIN	LOSS	DUPLICATION	DEMI-DUPLICATION
+N2	4.33125	11.3163	0.508302	0
+N3	0.425677	0.987698	0.0555529	0
+N4	3.29197	7.9343	0.554341	0
+N5	0.336525	0.889942	0.0468216	0
+N6	0.794939	2.02362	0.110557	0
+N7	0.238001	0.605609	0.0320676	0
+N8	1.80457	4.05135	0.316954	0
+Acanthoxyla_geisovii	2.54593	5.00572	0.548196	0
+N9	1.63604	3.96531	0.416231	0
+Acanthoxyla_inermis	0.482149	1.32368	0.12127	0
+Clitarchus_hookeri	0.482149	1.32368	0.12127	0
+N10	1.41582	3.60847	0.166192	0
+Ctenomorpha_sp	2.1218	6.43784	0.647673	0
+Extatosoma_tiaratum	2.41524	5.13069	0.68464	0
+N11	0.587204	1.46842	0.095254	0
+N12	1.31023	3.23236	0.340727	0
+Acrophylla_titan	2.14762	6.1315	0.575178	0
+Phobaeticus_sp	2.38691	7.19578	1.10956	0
+Podacanthus_wilkinsoni	3.39986	8.2049	0.82325	0
+N13	2.03484	5.2196	0.309669	0
+N14	0.343178	1.00047	0.0624877	0
+N15	0.699385	1.63179	0.331595	0
+N16	0.313532	0.491076	0.0383535	0
+N17	0.909675	1.85236	0.148498	0
+Bacillus_atticus	0.79852	2.15771	0.0625828	0
+Bacillus_grandii_grandii	0.79852	2.15771	0.0625828	0
+Bacillus_grandii_benazzii	1.73255	4.07724	0.217933	0
+Bacillus_lynceorum	1.57477	7.345	1.09931	0
+N18	1.416	4.21868	0.109787	0
+N19	0.967436	1.89412	0.57779	0
+N20	0.517868	0.00149029	0.000220746	0
+Clonopsis_felicitatis	0.0297264	0.00630465	2.57666e-005	0
+Clonopsis_soumiae	0.0340301	0.0109506	0.999845	0
+Clonopsis_gallica	0	5	1	0
+Clonopsis_maroccana	1.32583	3.35582	0.00440539	0
+N21	3.01351	5.60103	0.710711	0
+N22	0.172654	0.328683	0.00644442	0
+Leptynia_attenuata	0.0743401	1.64861	0.00185329	0
+Leptynia_caprai	0.595679	0.171561	0.00185329	0
+Leptynia_montana	0.334195	1.06491	0.00830333	0
+N23	0.379375	0.980711	0.0705294	0
+N24	0.319556	0.791	0.0905435	0
+Carausius_morosus	4.3544	13.5265	1.46163	0
+N25	1.73752	4.63034	0.306818	0
+Orxines_sp	3.21758	7.30218	0.69889	0
+N26	1.29256	3.97374	0.322798	0
+Pseudophasma_sp	1.31635	5.70054	0.0236991	0
+Sipyloidea_sipylus	1.24634	4.60025	1.10218	0
+Phalces_sp	4.74593	11.6686	1.00746	0
+N27	7.56863	18.9974	1.38715	0
+Bacillus_rossius	1.00626	2.48816	0.178294	0
+Baculum_sp	0.953356	2.9275	1.15811	0
+Phyllium_bioculatum	8.86729	22.0369	1.57258	0
+N28	12.5079	35.2142	1.83866	0
+Timema_poppensis	0.512552	1.8031	6.69401e-005	0
+Timema_shepardi	0.512552	1.8031	6.69401e-005	0
+#+++++++++++++++++++++++++++++
+
+#Expected number of events from root to leaf
+LEAF	GAIN	LOSS	DUPLICATION	DEMI-DUPLICATION
+Acanthoxyla_geisovii	13.7689	32.8145	2.17279	0
+Acanthoxyla_inermis	13.3411	33.0978	2.1621	0
+Clitarchus_hookeri	13.3411	33.0978	2.1621	0
+Ctenomorpha_sp	12.956	33.8038	2.12151	0
+Extatosoma_tiaratum	13.2494	32.4966	2.15847	0
+Acrophylla_titan	13.2254	33.9841	2.28673	0
+Phobaeticus_sp	13.4647	35.0484	2.82111	0
+Podacanthus_wilkinsoni	13.1674	32.8252	2.19408	0
+Bacillus_atticus	13.4846	33.4813	2.1182	0
+Bacillus_grandii_grandii	13.4846	33.4813	2.1182	0
+Bacillus_grandii_benazzii	13.5089	33.5484	2.12506	0
+Bacillus_lynceorum	13.0376	36.3251	2.96808	0
+Clonopsis_felicitatis	13.6945	33.4689	2.225	0
+Clonopsis_soumiae	13.6988	33.4736	3.22482	0
+Clonopsis_gallica	13.1469	38.4611	3.22475	0
+Clonopsis_maroccana	13.5053	34.9228	1.65137	0
+Leptynia_attenuata	13.6808	33.9262	2.1937	0
+Leptynia_caprai	14.2021	32.4491	2.1937	0
+Leptynia_montana	13.768	33.0138	2.1937	0
+Carausius_morosus	13.1022	35.5365	2.7409	0
+Orxines_sp	13.7029	33.9425	2.28498	0
+Pseudophasma_sp	13.0943	36.3146	1.93258	0
+Sipyloidea_sipylus	13.0243	35.2143	3.01106	0
+Phalces_sp	13.1742	32.8876	2.19619	0
+Bacillus_rossius	13.3318	33.7896	2.1293	0
+Baculum_sp	13.2789	34.2289	3.10911	0
+Phyllium_bioculatum	13.1985	33.3532	2.08088	0
+Timema_poppensis	13.0205	37.0173	1.83873	0
+Timema_shepardi	13.0205	37.0173	1.83873	0

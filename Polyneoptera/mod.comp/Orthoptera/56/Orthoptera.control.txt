@@ -1,0 +1,11 @@
+_mainType Run_Fix_Param
+_dataFile ../mod.comp/Orthoptera/56/Orthoptera.count.txt
+_treeFile ../mod.comp/Orthoptera/56/Orthoptera.tre
+_outDir ../mod.comp/Orthoptera/56/results
+_maxChrNum 14
+_minChrNum 2
+_branchMul 1
+_simulationsNum 10000
+_gainConstR 0.000845298576288662
+_lossConstR 0.00624917805587419
+_duplConstR 0.0219800694999232

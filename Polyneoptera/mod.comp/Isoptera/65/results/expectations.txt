@@ -1,0 +1,202 @@
+#Nodes with GAIN events with expectation above 0.5
+N5: 0.506662
+Neotermes_insularis: 2.70775
+N43: 0.844803
+Cryptotermes_queenslandis: 0.819838
+Cryptotermes_cynocephalus: 1.93959
+Procryptotermes_australiensis: 3.33269
+Incisitermes_sp: 1.04497
+N48: 0.937412
+N50: 0.578788
+Mastotermes_darwiniensis: 2.54394
+Porotermes_adamsoni: 1.19664
+Total number of gain events: 23.3517
+#+++++++++++++++++++++++++++++
+
+#Nodes with LOSS events with expectation above 0.5
+Procubitermes_sp: 1.75744
+Schedorhinotermes_lamanianus: 2.00849
+Bifiditermes_improbus: 2.76266
+N41: 0.692982
+Cryptotermes_primus: 4.2657
+Cryptotermes_brevis: 1.67947
+Cryptotermes_domesticus: 3.62109
+Kalotermes_flavicollis: 3.86072
+N49: 2.83079
+Stolotermes_sp: 1.33123
+Mastotermes_darwiniensis: 1.57067
+Porotermes_adamsoni: 1.78348
+Total number of loss events: 35.733
+#+++++++++++++++++++++++++++++
+
+#Nodes with duplication events with expectation above 0.5
+Kalotermes_flavicollis: 0.98998
+Mastotermes_darwiniensis: 0.999212
+Total number of duplication events: 2.2721
+#+++++++++++++++++++++++++++++
+
+#Nodes with demi-duplication events with expectation above 0.5
+Total number of demi-dulications events: 0
+#+++++++++++++++++++++++++++++
+
+#EVENTS NOT ACCOUNTED FOR IN THE SIMULATIONS: 
+NONE
+#+++++++++++++++++++++++++++++
+
+#ALL EVENTS EXPECTATIONS PER NODE
+NODE	GAIN	LOSS	DUPLICATION	DEMI-DUPLICATION
+N2	0.223004	0.295324	1.69048e-014	0
+N3	0.0382953	0.149335	4.50979e-015	0
+N4	0.177623	0.0789426	3.72672e-013	0
+N5	0.506662	0.153621	8.6105e-018	0
+N6	0.155244	0.03573	1.44619e-023	0
+N7	0.053393	0.0303589	1.42882e-026	0
+N8	0.0087411	0.0070287	2.3127e-030	0
+N9	0.0239872	0.0278828	9.03011e-036	0
+N10	0.00282436	0.00116676	1.11261e-032	0
+N11	0.0283812	0.026334	1.17882e-037	0
+N12	0.000976204	0.0010964	9.07031e-036	0
+N13	0.00149413	0.00152821	2.51547e-040	0
+N14	0.00377518	0.00375733	2.4676e-039	0
+Amitermes_darwini	0.010104	0.0103547	0	0
+Amitermes_germanus	0.010104	0.0103547	0	0
+Amitermes_parvus	0.0252191	0.0254519	0	0
+Drepanotermes_septentrionalis	0.0373045	0.0375714	0	0
+Pericapritermes_sp	0.0445646	0.0449516	0	0
+N15	0.0329642	0.0308428	1.23368e-037	0
+N16	0.00135792	0.00149547	1.29801e-035	0
+N17	0.00164619	0.00159237	5.00965e-039	0
+Ephelotermes_melachoma	0.0211887	0.021566	0	0
+Ephelotermes_taylori	0.0211887	0.021566	0	0
+Macrognathotermes_sunteri	0.0323191	0.0326426	0	0
+Lophotermes_septentrionalis	0.0397644	0.0402255	0	0
+N18	0.0652146	0.306098	1.04464e-037	0
+Procubitermes_sp	0.0016463	1.75744	0	0
+N19	0.245598	0.00501404	3.14646e-032	0
+Tuberculitermes_bycanistes	0.00479785	0.00118384	0	0
+Unguitermes_sp	0.00479785	0.00118384	0	0
+N20	0.0148812	0.013271	2.98163e-033	0
+N21	0.0134753	0.012562	4.47911e-032	0
+N22	0.000447646	0.000392988	2.53219e-031	0
+Crenetermes_albotarsalis	0.108849	0.112003	0	0
+Cubitermes_sp	0.108849	0.112003	0	0
+Thoracotermes_macrothorax	0.110155	0.113254	0	0
+N23	0.0684104	0.0675225	3.68825e-031	0
+Microcerotermes_boreus	0.0428937	0.0459674	0	0
+Microcerotermes_nervosus	0.0428937	0.0459674	0	0
+N24	0.226308	0.225095	4.86983e-032	0
+N25	9.17212e-005	0.00012419	8.88132e-039	0
+N26	0.000622012	0.00064579	7.19729e-035	0
+Nasutitermes_graveolus	0.00134823	0.00136849	0	0
+Nasutitermes_triodiae	0.00134823	0.00136849	0	0
+Tumulitermes_pastinator	0.00462121	0.00466524	0	0
+Nasutitermes_longipennis	0.00506948	0.00514599	0	0
+N27	0.125505	0.095555	1.34037e-026	0
+N28	0.00280731	0.00256481	3.08983e-026	0
+N29	0.0714561	0.0746942	1.92874e-030	0
+Macrotermes_bellicosus	0.0297154	0.0325022	0	0
+Microtermes_sp	0.0297154	0.0325022	0	0
+Pseudacanthotermes_militaris	0.150751	0.156775	0	0
+N30	0.152017	0.15778	1.9643e-033	0
+Odontotermes_sp	3.46883e-005	5.09339e-005	0	0
+Protermes_sp	3.46883e-005	5.09339e-005	0	0
+N31	0.0345478	0.072648	1.04874e-022	0
+N32	0.120509	0.038528	1.07371e-020	0
+Coptotermes_acinaciformis	0.444477	0.344674	0	0
+N33	0.327813	0.227898	1.48441e-023	0
+Reticulitermes_flavipes	0.0277893	0.0279015	0	0
+N34	0.00803498	0.00775838	2.16864e-031	0
+Reticulitermes_lucifugus	0.00946301	0.00985183	0	0
+Reticulitermes_urbis	0.00946301	0.00985183	0	0
+Schedorhinotermes_lamanianus	0.190277	2.00849	0	0
+N35	0.0961611	0.163499	3.77543e-019	0
+N36	0.011573	0.0710173	1.11711e-021	0
+N37	0.0739835	0.0226278	3.22504e-020	0
+N38	0.260217	0.102701	1.94792e-018	0
+Bifiditermes_improbus	0.177819	2.76266	0	0
+Neotermes_insularis	2.70775	0.129487	0.0236087	0
+N39	0.0213544	0.0298035	2.64654e-018	0
+N40	0.0561125	0.255576	1.29773e-023	0
+N41	0.0153485	0.692982	4.27934e-029	0
+N42	0.0203006	0.117536	2.00468e-024	0
+N43	0.844803	0.0841452	3.80775e-015	0
+Cryptotermes_austrinus	0.0566976	0.262176	0	0
+Cryptotermes_queenslandis	0.819838	0.0253163	0	0
+Cryptotermes_primus	0.00488832	4.2657	0	0
+Cryptotermes_brevis	0.137339	1.67947	0	0
+N44	0.0398249	0.00532909	1.7788e-021	0
+Cryptotermes_cynocephalus	1.93959	0.19403	8.33986e-018	0
+N45	0.0678117	0.136328	2.39986e-022	0
+N46	0.0936869	0.114269	1.35504e-021	0
+Cryptotermes_domesticus	0.000326981	3.62109	0	0
+Procryptotermes_australiensis	3.33269	0.00895913	4.94377e-007	0
+N47	0.0813318	0.181262	2.02163e-016	0
+Cryptotermes_dudleyi	0.14493	0.230922	0	0
+Cryptotermes_secundus	0.14493	0.230922	0	0
+Incisitermes_sp	1.04497	0.464372	0	0
+Kalotermes_flavicollis	0.296522	3.86072	0.98998	0
+N48	0.937412	0.395484	1.84589e-015	0
+Glyptotermes_brevicornis	0.110322	0.0881839	0	0
+Glyptotermes_iridipennis	0.110322	0.0881839	0	0
+N49	0.27274	2.83079	9.75096e-014	0
+Stolotermes_sp	0.474096	1.33123	0	0
+N50	0.578788	0.469717	0.218081	0
+Zootermopsis_angusticollis	0.163902	0.119648	0.0206081	0
+Zootermopsis_nevadensis	0.163902	0.119648	0.0206081	0
+Mastotermes_darwiniensis	2.54394	1.57067	0.999212	0
+Porotermes_adamsoni	1.19664	1.78348	0	0
+#+++++++++++++++++++++++++++++
+
+#Expected number of events from root to leaf
+LEAF	GAIN	LOSS	DUPLICATION	DEMI-DUPLICATION
+Amitermes_darwini	1.2345	0.82246	3.94095e-013	0
+Amitermes_germanus	1.2345	0.82246	3.94095e-013	0
+Amitermes_parvus	1.24584	0.8338	3.94095e-013	0
+Drepanotermes_septentrionalis	1.25644	0.844392	3.94095e-013	0
+Pericapritermes_sp	1.26272	0.850675	3.94095e-013	0
+Ephelotermes_melachoma	1.24693	0.834886	3.94095e-013	0
+Ephelotermes_taylori	1.24693	0.834886	3.94095e-013	0
+Macrognathotermes_sunteri	1.25641	0.844371	3.94095e-013	0
+Lophotermes_septentrionalis	1.2625	0.850458	3.94095e-013	0
+Procubitermes_sp	1.25381	2.84176	3.94095e-013	0
+Tuberculitermes_bycanistes	1.50256	1.09052	3.94095e-013	0
+Unguitermes_sp	1.50256	1.09052	3.94095e-013	0
+Crenetermes_albotarsalis	1.30062	0.88857	3.94095e-013	0
+Cubitermes_sp	1.30062	0.88857	3.94095e-013	0
+Thoracotermes_macrothorax	1.30147	0.889427	3.94095e-013	0
+Microcerotermes_boreus	1.28915	0.877101	3.94095e-013	0
+Microcerotermes_nervosus	1.28915	0.877101	3.94095e-013	0
+Nasutitermes_graveolus	1.38259	0.970545	3.94095e-013	0
+Nasutitermes_triodiae	1.38259	0.970545	3.94095e-013	0
+Tumulitermes_pastinator	1.38524	0.973196	3.94095e-013	0
+Nasutitermes_longipennis	1.3856	0.973553	3.94095e-013	0
+Macrotermes_bellicosus	1.33031	0.918269	3.94095e-013	0
+Microtermes_sp	1.33031	0.918269	3.94095e-013	0
+Pseudacanthotermes_militaris	1.37989	0.967848	3.94095e-013	0
+Odontotermes_sp	1.37839	0.966339	3.94095e-013	0
+Protermes_sp	1.37839	0.966339	3.94095e-013	0
+Coptotermes_acinaciformis	1.54512	1.13307	3.94095e-013	0
+Reticulitermes_flavipes	1.45624	1.0442	3.94095e-013	0
+Reticulitermes_lucifugus	1.44595	1.03391	3.94095e-013	0
+Reticulitermes_urbis	1.44595	1.03391	3.94095e-013	0
+Schedorhinotermes_lamanianus	1.17041	2.75836	3.94095e-013	0
+Bifiditermes_improbus	1.05868	3.64611	3.94089e-013	0
+Neotermes_insularis	3.5886	1.01293	0.0236087	0
+Cryptotermes_austrinus	1.63526	2.22296	3.97897e-013	0
+Cryptotermes_queenslandis	2.3984	1.98611	3.97897e-013	0
+Cryptotermes_primus	0.738644	6.14234	3.94089e-013	0
+Cryptotermes_brevis	0.850795	3.43858	3.94089e-013	0
+Cryptotermes_cynocephalus	2.67752	1.26548	3.94098e-013	0
+Cryptotermes_domesticus	0.899757	4.94314	3.94089e-013	0
+Procryptotermes_australiensis	4.23212	1.33101	4.94377e-007	0
+Cryptotermes_dudleyi	1.03201	1.61997	3.94292e-013	0
+Cryptotermes_secundus	1.03201	1.61997	3.94292e-013	0
+Incisitermes_sp	1.68697	1.27492	3.94089e-013	0
+Kalotermes_flavicollis	0.843179	4.61884	0.98998	0
+Glyptotermes_brevicornis	1.58282	1.17077	3.95933e-013	0
+Glyptotermes_iridipennis	1.58282	1.17077	3.95933e-013	0
+Stolotermes_sp	1.00814	4.60669	1.18924e-013	0
+Zootermopsis_angusticollis	1.27673	3.86482	0.238689	0
+Zootermopsis_nevadensis	1.27673	3.86482	0.238689	0
+Mastotermes_darwiniensis	2.76694	1.86599	0.999212	0
+Porotermes_adamsoni	1.19664	1.78348	0	0

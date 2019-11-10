@@ -1,0 +1,88 @@
+START OF LOG FILE
+chromEvol Version: 2.0. Last updated December 2013
+_bOptBaseNumber	(Int)	0
+_baseNumber	(Int)	-999
+_baseNumberR	(Float)	-999
+_baseTransitionProbs	(Str)	
+_branchModelType	(Str)	GRADUAL
+_branchMul	(Float)	1
+_dataFile	(Str)	../mod.comp/Mantodea/70/Mantodea.count.txt
+_demiPloidyR	(Float)	-999
+_duplConstR	(Float)	0.10666
+_epsR	(Float)	-999
+_epsilonLLimprovement	(Float)	0.1
+_freqFile	(Str)	
+_gainConstR	(Float)	0.0404964
+_gainLinearR	(Float)	-999
+_inferTreeFile	(Str)	mlAncestors.tree
+_logFile	(Str)	log.txt
+_logValue	(Int)	5
+_lossConstR	(Float)	0.109876
+_lossLinearR	(Float)	-999
+_mainType	(Str)	Run_Fix_Param
+_maxBaseTransition	(Int)	0
+_maxChrNum	(Int)	19
+_maxChrNumForSimulations	(Int)	0
+_maxOptimizationIterations	(Int)	5
+_minChrNum	(Int)	6
+_modelType	(Str)	GENERAL_CHR_MODEL
+_optimizeIterNum	(Str)	0,2,5
+_optimizePointsNum	(Str)	10,3,1
+_outDir	(Str)	../mod.comp/Mantodea/70/results
+_outFile	(Str)	chromEvol.res
+_pow2Scale	(Int)	1
+_rootAt	(Str)	
+_rootFreqType	(Str)	ROOT_LL
+_scaleBranch	(Float)	-999
+_simDemiTypes	(Str)	-999,-999,-2
+_simModels	(Str)	CONST_RATE_NO_DUPL,CONST_RATE,CONST_RATE
+_simulationsIter	(Int)	50
+_simulationsJumpsStats	(Str)	
+_simulationsNum	(Int)	10000
+_simulationsTreeDir	(Str)	
+_simulationsTreeLength	(Float)	0
+_smIter	(Int)	0
+_startSimulationsIter	(Int)	0
+_tolParamOptimization	(Float)	0.01
+_treeFile	(Str)	../mod.comp/Mantodea/70/Mantodea.tre
+
+ ---------------------- THE PARAMETERS ----------------------------
+main type: Run_Fix_Param
+tree file: ../mod.comp/Mantodea/70/Mantodea.tre
+data file: ../mod.comp/Mantodea/70/Mantodea.count.txt
+output file: chromEvol.res
+model Type: GENERAL_CHR_MODEL
+ max chromosome number allowed: 19
+ _gainConstR: 0.0404964
+ _lossConstR: 0.109876
+ _duplConstR: 0.10666
+ _demiPloidyR: -999
+ _baseNumber: -999
+ _baseNumberR: -999
+
+ -----------------------------------------------------------------
+max count = 17 min count = 8
+max count allowed= 19 min count allowed = 6
+tree rooted at N1 id, 0
+sons of root are: 
+N2
+N39
+Original total tree length = 1917.24
+total tree length = 1917.24
+LL = -189.373
+Inferring ancestral states
+Computing expectations
+
+running 10000 simulations
+simulaing state 0simulaing state 1simulaing state 2simulaing state 3simulaing state 4simulaing state 5simulaing state 6simulaing state 7simulaing state 8simulaing state 9simulaing state 10simulaing state 11simulaing state 12simulaing state 13finished simulations
+
+total expectations
+dupl=21.7338
+gain=44.3837
+loss=258.893
+halFDupl=0
+baseNumber=0
+toMaxChr=50.1302
+Printing results
+
+TOTAL RUNNING TIME = 9

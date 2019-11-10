@@ -1,0 +1,824 @@
+order,family,genus,species,sex.system,SCS,scs.notes,fem.2n,mal.2n,hap
+Blattodea,Blattellidae,Agmoblatta,Agmoblatta_thaxteri,,XO,,26,25,13
+Blattodea,Blattellidae,Amazonina,Amazonina_conspersa,,XO,,24,23,12
+Blattodea,Blattellidae,Amazonina,Amazonina_n.sp.,,XO,,26,25,13
+Blattodea,Blattellidae,Amazonina,Amazonina_n.sp.38B,,XO,,26,25,13
+Blattodea,Blaberidae,Archimandrita,Archimandrita_tessellata,,XO,,46,45,23
+Blattodea,Polyphagidae,Arenivaga,Arenivaga_investigata,,XO,,46,45,23
+Blattodea,Blattellidae,Attaphila,Attaphila_fungicola,,XO,,34,33,17
+Blattodea,Blaberidae,Blaberus,Blaberus_atropos,,XO,,74,73,37
+Blattodea,Blaberidae,Blaberus,Blaberus_cranifer,,XO,,74,73,37
+Blattodea,Blaberidae,Blaberus,Blaberus_discoidalis,,XO,,38,37,19
+Blattodea,Blaberidae,Blaberus,Blaberus_giganteus,,XO,,74,73,37
+Blattodea,Blaberidae,Blaberus,Blaberus_parabolicus,,XO,,40,39,20
+Blattodea,Blattidae,Blatta,Blatta_orientalis,,XO,,48,47,24
+Blattodea,Blattellidae,Blattella,Blattella_bisignata,,XO,,24,23,12
+Blattodea,Blattellidae,Blattella,Blattella_germanica,,XO,,24,23,12
+Blattodea,Blattellidae,Blattella,Blattella_lituricollis_lituricollis,,XO,,26,25,13
+Blattodea,Blattellidae,Blattella,Blattella_sauteri,,XO,,24,23,12
+Blattodea,Blattellidae,Blattella,Blattella_sp.C43T,,XO,,28,27,14
+Blattodea,Blattellidae,Blattella,Blattella_sp.D,,XO,,30,29,15
+Blattodea,Blattellidae,Blattella,Blattella_sp.E71A,,XO,,50,49,25
+Blattodea,Blattellidae,Blattella,Blattella_vaga,,XO,,24,23,12
+Blattodea,Blaberidae,Byrsotria,Byrsotria_fumigata,,XO,,48,47,24
+Blattodea,Blaberidae,Capucina,Capucina_patula,,XO,,38,37,19
+Blattodea,Blattellidae,Cariblatta,Cariblatta_lutea_minima,,XO,,26,25,13
+Blattodea,Polyphagidae,Cryptocercus,Cryptocercus_punctulatus,gonochorous,XO, multivalent absent order listed as Dictyoptera,48,47,24
+Blattodea,Polyphagidae,Cryptocercus,Cryptocercus_primarius,,XO, multivalent absent order listed as Dictyoptera,20,19,10
+Blattodea,Polyphagidae,Cryptocercus,Cryptocercus_punctulatus,,XO, multivalent absent order listed as Dictyoptera,38,37,19
+Blattodea,Polyphagidae,Cryptocercus,Cryptocercus_relictus,,XO, multivalent absent order listed as Dictyoptera,18,17,9
+Blattodea,Blattidae,Cryptocercus,Cryptocercus_punctulatus,,XO,,40,39,20
+Blattodea,Blattellidae,Dendroblatta,Dendroblatta_cnephaia,,XO,,32,31,16
+Blattodea,Blattellidae,Dendroblatta,Dendroblatta_sobrina,,XO,,26,25,13
+Blattodea,Blattidae,Deropeltis,Deropeltis_erythrocephala,,XO,,50,49,25
+Blattodea,Blaberidae,Diploptera,Diploptera_punctata,,XO,,48,47,24
+Blattodea,Blattidae,Duchailluia,Duchailluia_n.sp.,,XO,,42,41,21
+Blattodea,Blattellidae,Ectobius,Ectobius_pallidus,,XO,,22,21,11
+Blattodea,Blaberidae,Epilampra,Epilampra_abdomennigrum,,XO,,42,41,21
+Blattodea,Blaberidae,Epilampra,Epilampra_grisea,,XO,,50,49,25
+Blattodea,Blaberidae,Epilampra,Epilampra_maculicollis,,XO,,38,37,19
+Blattodea,Blaberidae,Epilampra,Epilampra_maya,,XO,,36,35,18
+Blattodea,Blaberidae,Epilampra,Epilampra_sagitta,,XO,,44,43,22
+Blattodea,Blaberidae,Epilampra,Epilampra_sp.81B,,XO,,40,39,20
+Blattodea,Blaberidae,Eublaberus,Eublaberus_distanti,,XO,,66,65,33
+Blattodea,Blaberidae,Eublaberus,Eublaberus_posticus,,XO,,44,43,22
+Blattodea,Blattidae,Eurycotis,Eurycotis_biolleyi,,XO,,22,21,11
+Blattodea,Blattidae,Eurycotis,Eurycotis_decipiens,,XO,,28,27,14
+Blattodea,Blattidae,Eurycotis,Eurycotis_floridana,,XO,,28,27,14
+Blattodea,Blaberidae,Galiblatta,Galiblatta_williamsi,,XO,,28,27,14
+Blattodea,Blattellidae,Gislenia,Gislenia_australica,,XO,,34,33,17
+Blattodea,Blaberidae,Gromphadorhina,Gromphadorhina_brunneri,,XO,,64,63,32
+Blattodea,Blaberidae,Gromphadorhina,Gromphadorhina_chopardi,,XO,,76,75,38
+Blattodea,Blaberidae,Gromphadorhina,Gromphadorhina_portentosa,,XO,,64,63,32
+Blattodea,Blattellidae,Hemithyrsocera,Hemithyrsocera_latera/is,,XO,,26,25,13
+Blattodea,Blaberidae,Hormetica,Hormetica_scrobiculata,,XO,,32,31,16
+Blattodea,Blaberidae,Hormetica,Hormetica_ventralis,,XO,,32,31,16
+Blattodea,Blaberidae,Hyporhicnoda,Hyporhicnoda_litomorpha,,XO,,44,43,22
+Blattodea,Blattellidae,Ischnoptera,Ischnoptera_castanea,,XO,,34,33,17
+Blattodea,Blattellidae,Ischnoptera,Ischnoptera_deropeltiformis,,XO,,50,49,25
+Blattodea,Blattellidae,Ischnoptera,Ischnoptera_galibi,,XO,,44,43,22
+Blattodea,Blattellidae,Ischnoptera,Ischnoptera_mura,,XO,,34,33,17
+Blattodea,Blattellidae,Ischnoptera,Ischnoptera_panamae,,XO,,40,39,20
+Blattodea,Blattellidae,Ischnoptera,Ischnoptera_rufa_rufa,,XO,,40,39,20
+Blattodea,Blattellidae,Ischnoptera,Ischnoptera_sp.93B,,XO,,38,37,19
+Blattodea,Blattidae,Lamproblatta,Lamproblatta_albipalpus,,XO,,18,17,9
+Blattodea,Blaberidae,Lanxoblatta,Lanxoblatta_emarginata,,XO,,66,65,33
+Blattodea,Polyphagidae,Latindia,Latindia_sp.3,,,,NA,22,11
+Blattodea,Blaberidae,Leucophaea,Leucophaea_maderae,,XO,,24,23,12
+Blattodea,Blattellidae,Loboptera,Loboptera_decipiens,,XO,,34,33,17
+Blattodea,Blattellidae,Lobopterella,Lobopterella_dimidiatipes,,XO,,38,37,19
+Blattodea,Blattellidae,Lophoblatta,Lophoblatta_brevis,,XO,,32,31,16
+Blattodea,Blattellidae,Lophoblatta,Lophoblatta_fissa,,XO,,16,15,8
+Blattodea,Blattellidae,Lupparia,Lupparia_notulata,,XO,,20,19,10
+Blattodea,Blaberidae,Macropanesthia,Macropanesthia_rhinoceros,,XO,,80,79,40
+Blattodea,Blattellidae,Margattea,Margattea_punctulata,,XO,,32,31,16
+Blattodea,Blattellidae,Nahublattella,Nahublattella_n.sp.72B,,XO,,20,19,10
+Blattodea,Blaberidae,Nauphoeta,Nauphoeta_cinerea,,XO,,38,37,19
+Blattodea,Blaberidae,Panchlora,Panchlora_nivea,,XO,,36,35,18
+Blattodea,Blaberidae,Panchlora,Panchlora_sp.,,XO,,32,31,16
+Blattodea,Blaberidae,Panchlora,Panchlora_viridis,,XO,,38,37,19
+Blattodea,Blaberidae,Panesthia,Panesthia_sp.,,XO,,38,37,19
+Blattodea,Blaberidae,Panesthia,Panesthia_stellata,,XO,,38,37,19
+Blattodea,Blattellidae,Parasymploce,Parasymploce_limbata,,XO,,24,23,12
+Blattodea,Blattellidae,Parasymploce,Parasymploce_sp.25T,,XO,,32,31,16
+Blattodea,Blattellidae,Parasymploce,Parasymploce_sp.30T,,XO,,32,31,16
+Blattodea,Blattellidae,Parcoblatta,Parcoblatta_fulvescens,,XO,,38,37,19
+Blattodea,Blattellidae,Parcoblatta,Parcoblatta_pennsylvanica,,XO,,38,37,19
+Blattodea,Blattidae,Pelmatosilpha,Pelmatosilpha_coriacea,,XO,,38,37,19
+Blattodea,Blattidae,Periplaneta,Periplaneta_americana,,XO,,34,33,17
+Blattodea,Blattidae,Periplaneta,Periplaneta_australasiae,,XO,,28,27,14
+Blattodea,Blattidae,Periplaneta,Periplaneta_brunnea,,XO,,28,27,14
+Blattodea,Blattidae,Periplaneta,Periplaneta_fuliginosa,,XO,,28,27,14
+Blattodea,Blattidae,Periplaneta,Periplaneta_japonica,,XO,,34,33,17
+Blattodea,Blaberidae,Petasodes,Petasodes_dominicana,,XO,,54,53,27
+Blattodea,Blaberidae,Phoetalia,Phoetalia_circumvagans,,XO,,54,53,27
+Blattodea,Blaberidae,Phortioica,Phortioica_phoraspoides,,XO,,66,65,33
+Blattodea,Blaberidae,Pinaconota,Pinaconota_sicca,,XO,,34,33,17
+Blattodea,Polyphagidae,Polyphaga,Polyphaga_aegyptiaca,,XO,,64,63,32
+Blattodea,Blaberidae,Proscratea,Proscratea_complanata,,XO,,36,35,18
+Blattodea,Blattellidae,Pseudomops,Pseudomops_septentrionalis,,XO,,32,31,16
+Blattodea,Blaberidae,Pycnoscelus,Pycnoscelus_indicus,,XO,,36,35,18
+Blattodea,Blaberidae,Pycnoscelus,Pycnoscelus_surinamensis,,,,35,NA,18
+Blattodea,Blaberidae,Pycnoscelus,Pycnoscelus_surinamensis,,,,53,NA,27
+Blattodea,Blaberidae,Rhabdoblatta,Rhabdoblatta_annandalei,,XO,,50,49,25
+Blattodea,Blaberidae,Rhabdoblatta,Rhabdoblatta_sp.39T,,XO,,32,31,16
+Blattodea,Blattellidae,Shawella,Shawella_couloniana,,XO,,36,35,18
+Blattodea,Blaberidae,Sp.,Sp._sp41B,,XO,,30,29,15
+Blattodea,Blattellidae,Supella,Supella_longipalpa,,XO,,20,19,10
+Blattodea,Blattellidae,Symploce,Symploce_capitata,,XO,,28,27,14
+Blattodea,Blattellidae,Symploce,Symploce_fusca,,XO,,30,29,15
+Blattodea,Blattellidae,Symplocodes,Symplocodes_marmorata,,XO,,40,39,20
+Blattodea,Blattellidae,Symplocodes,Symplocodes_n.sp.50,,XO,,38,37,19
+Blattodea,Blattellidae,Xestoblatta,Xestoblatta_immaculata,,XO,,38,37,19
+Dermaptera,Forficulidae,Anechura,Anechura_bipunctata,,XY,,24,24,12
+Dermaptera,Labiduridae,Anisolabis,Anisolabis_marginalis,,complex XY,XXY,26,25,13
+Dermaptera,Labiduridae,Anisolabis,Anisolabis_maritima,,complex XY,XXY,26,25,13
+Dermaptera,Labiduridae,Anisolabis,Anisolabis_sp,,complex XY,XXXY,44,42,22
+Dermaptera,Labiduridae,Anisolabis,Anisolabis_annuipes,,complex XY,,26,25,13
+Dermaptera,Forficulidae,Apterygida,Apterygida_albipennis,,XY,,24,24,12
+Dermaptera,Arixenidae,Arixenia,Arixenia_esau,,XY,,60,60,30
+Dermaptera,Labiidae,Chaetospania,Chaetospania_brunner,,complex XY,XXXXY,34,31,17
+Dermaptera,Labiidae,Chaetospania,Chaetospania_sp.1,,complex XY,XXY,22,21,11
+Dermaptera,Labiidae,Chaetospania,Chaetospania_sp.2,,complex XY,XXY,22,21,11
+Dermaptera,Pygicranidae,Dacnodes,Dacnodes_shortridgei,,XO,,12,11,6
+Dermaptera,Pygicranidae,Diplatys,Diplatys_gladiator,,XY,,18,18,9
+Dermaptera,Labiduridae,Euborellia,Euborellia_annulipes,,complex XY,XXY,26,25,13
+Dermaptera,Labiduridae,Euborellia,Euborellia_moesta,,complex XY,XXY,26,25,13
+Dermaptera,Labiduridae,Euborellia,Euborellia_stali,,complex XY,XXY,26,25,13
+Dermaptera,Forficulidae,Forficula,Forficula_scudderi,,XY,,24,24,12
+Dermaptera,Forficulidae,Forficula,Forficula_smyrnensis,,complex XY,XXY,29,21,15
+Dermaptera,Forficulidae,Forficula,Forficula_auricularia,,complex XY,XXY,24,24,12
+Dermaptera,Forficulidae,Forficula,Forficula_auricularia,,complex XY,XXY,24,24,12
+Dermaptera,Forficulidae,Forficula,Forficula_auricularia,,complex XY,XXY,24,25,12
+Dermaptera,Forficulidae,Forficula,Forficula_scudderi,,XY,,24,24,12
+Dermaptera,Forficulidae,Forficula,Forficula_smyrnensis,,complex XY,XXY,22,21,11
+Dermaptera,Forficulidae,Forficula,Forficula_sp,,complex XY,XXY,28,27,14
+Dermaptera,Forficulidae,Forficula,Forficula_auricularia,,complex XY,XXY,26,25,13
+Dermaptera,Forficulidae,Forficula,Forficula_auricularia,,complex XY,XXY,25,NA,13
+Dermaptera,Forficulidae,Forficula,Forficula_auricularia,,complex XY,XXY,26,NA,13
+Dermaptera,Forficulidae,Forficula,Forficula_auricularia,,XY,XY males (fused X1X2),24,24,12
+Dermaptera,Forficulidae,Forficula,Forficula_auricularia,,XY,,24,24,12
+Dermaptera,Forficulidae,Forficula,Forficula_auricularia,,complex XY,XXY,NA,25,13
+Dermaptera,Forficulidae,Forficula,Forficula_auricularia,,,,24,NA,12
+Dermaptera,Labiduridae,Gonolabis,Gonolabis_brunneri,,XY,,24,24,12
+Dermaptera,Hemimeridae,Hemimerus,Hemimerus_bouvieri,,complex XY,XXY,8,7,4
+Dermaptera,Labiidae,Labia,Labia_minor,,XY,,14,14,7
+Dermaptera,Labiidae,Labia,Labia_sp.,,XY,,18,18,9
+Dermaptera,Labiduridae,Labidura,Labidura_riparia,,XY,heterochromatic Y from Brazil,12,12,6
+Dermaptera,Labiduridae,Labidura,Labidura_truncata,,XY,,10,10,5
+Dermaptera,Labiduridae,Labidura,Labidura_bidens,,XY,,12,12,6
+Dermaptera,Labiduridae,Labidura,Labidura_riparia,,XY,,14,14,7
+Dermaptera,Labiduridae,Labidura,Labidura_truncata,,XY,,10,10,5
+Dermaptera,Labiduridae,Labidura,Labidura_riparia,,XY,,12,12,6
+Dermaptera,Labiduridae,Labidura,Labidura_bengalensis,,XY,from India,14,14,7
+Dermaptera,Labiduridae,Nala,Nala_lividipes,,complex XY,XXY,38,37,19
+Dermaptera,Labiduridae,Nala,Nala_lividipes,,XY,,34,34,17
+Dermaptera,Labiduridae,Nala,Nala_lividipes,,XY,,40,40,20
+Dermaptera,Labiidae,Nesogaster,Nesogaster_erichsoni,,complex XY,XXY,22,21,11
+Dermaptera,Labiidae,Nesogaster,Nesogaster_halli,,XO,,22,19,11
+Dermaptera,Labiduridae,Notolabis,Notolabis_occidentalis,,XY,,24,24,12
+Dermaptera,Labiduridae,Parisopsalis,Parisopsalis_spryi,,complex XY,XXXY,34,32,17
+Dermaptera,Labiidae,Prolabia,Prolabia_arachidis,,complex XY,XXXY,40,38,20
+Dermaptera,Forficulidae,Pseudochelidura,Pseudochelidura_sinuata,,complex XY,XXY,26,25,13
+Dermaptera,Labiidae,unknown,unknown_Sp.,,complex XY,XXY,38,37,19
+Dermaptera,Pygicranidae,unknown,unknown_sp.,,XY,,20,20,10
+Embiidina,Embiidae,Cleomia,Cleomia_guareschii,,XO,,22,21,11
+Embiidina,Embiidae,Embia,Embia_nuragica,,XO,,24,23,12
+Embiidina,Embiidae,Embia,Embia_ramburi,,XO,,22,21,11
+Embiidina,Embiidae,Embia,Embia_tyrrhenica,,XO,,22,21,11
+Embiidina,Oligotomidae,Haploembia,Haploembia_palaui,,XO,,22,21,11
+Embiidina,Oligotomidae,Haploembia,Haploembia_solieri,,XO,,20,19,10
+Embiidina,Oligotomidae,Oligotoma,Oligotoma_japonica,,XO,,20,19,10
+Embiidina,Oligotomidae,Oligotoma,Oligotoma_saundersi,,XO,,22,21,11
+Grylloblata,Grylloblatidae,Galloisiana,Galloisiana_nipponensis,gonochorous,XY,heteromorphic,30,30,15
+Grylloblata,Grylloblatidae,Grylloblatta,Grylloblatta_campodeioformis,gonochorous,XY,metacentric X and Y associated by one arm,30,NA,15
+Isoptera,Termitidae,Acidnotermes,Acidnotermes_praus,gonochorous,complex XY|homomorphic,X1X1X2X2/X1X2Y1Y2 sex-linked multivalent in males,42,NA,21
+Isoptera,Termitidae,Afrosubulitermes,Afrosubulitermes_congoensis,gonochorous,complex XY|homomorphic,X1X1X2X2/X1X2Y1Y2 sex-linked multivalent in males,42,NA,21
+Isoptera,Termitidae,Amitermes,Amitermes_darwini,gonochorous,complex XY|homomorphic,X1X1X2X2/X1X2Y1Y2 sex-linked multivalent in males,42,42,21
+Isoptera,Termitidae,Amitermes,Amitermes_eucalipti,,,,42,NA,21
+Isoptera,Termitidae,Amitermes,Amitermes_germanus,,,,42,NA,21
+Isoptera,Termitidae,Amitermes,Amitermes_parvus,gonochorous,complex XY|homomorphic,X1X1X2X2/X1X2Y1Y2 sex-linked multivalent in males,42,42,21
+Isoptera,Kalotermitidae,Bifiditermes,Bifiditermes_improbus,gonochorous,complex XY|homomorphic,X1X1X2X2/X1X2Y1,36,35,18
+Isoptera,Rhinotermitidae,Coptotermes,Coptotermes_acinaciformis,gonochorous,complex XY|homomorphic,X1X1X2X2/X1X2Y1Y2 sex-linked multivalent in males,42,42,21
+Isoptera,Termitidae,Crenetermes,Crenetermes_albotarsalis,gonochorous,complex XY|homomorphic,X1X1X2X2/X1X2Y1Y2 sex-linked multivalent in males,42,NA,21
+Isoptera,Kalotermitidae,Cryptotermes,Cryptotermes_domesticus,gonochorous,complex XY|homomorphic,X1X1X2X2/X1X2Y1,30,29,15
+Isoptera,Kalotermitidae,Cryptotermes,Cryptotermes_secundus,,,,40,NA,20
+Isoptera,Kalotermitidae,Cryptotermes,Cryptotermes_austrinus,gonochorous,,,NA,40,20
+Isoptera,Kalotermitidae,Cryptotermes,Cryptotermes_brevis,gonochorous,complex XY|homomorphic,X1X1/X1Y1Y2,36,37,18
+Isoptera,Kalotermitidae,Cryptotermes,Cryptotermes_cristatus,gonochorous,,,NA,46,23
+Isoptera,Kalotermitidae,Cryptotermes,Cryptotermes_cynocephalus,gonochorous,complex XY|homomorphic,X1X1X2X2/X1X2Y1,44,43,22
+Isoptera,Kalotermitidae,Cryptotermes,Cryptotermes_domesticus,gonochorous,complex XY|homomorphic,X1X1X2X2/X1X2Y1,30,29,15
+Isoptera,Kalotermitidae,Cryptotermes,Cryptotermes_dudleyi,gonochorous,,,40,40,20
+Isoptera,Kalotermitidae,Cryptotermes,Cryptotermes_gearyi,gonochorous,XY|homomorphic,,NA,48,24
+Isoptera,Kalotermitidae,Cryptotermes,Cryptotermes_papulosus,gonochorous,,,42,NA,21
+Isoptera,Kalotermitidae,Cryptotermes,Cryptotermes_primus,gonochorous,,,30,NA,15
+Isoptera,Kalotermitidae,Cryptotermes,Cryptotermes_queenslandis,gonochorous,complex XY|homomorphic,X1X1X2X2/X1X2Y1,42,41,21
+Isoptera,Kalotermitidae,Cryptotermes,Cryptotermes_riverinae,gonochorous,,,42,42,21
+Isoptera,Kalotermitidae,Cryptotermes,Cryptotermes_secundus,gonochorous,,,40,40,20
+Isoptera,Kalotermitidae,Cryptotermes,Cryptotermes_sp.,gonochorous,,,NA,47,24
+Isoptera,Termitidae,Cubitermes,Cubitermes_exiguus,gonochorous,complex XY|homomorphic,X1X1X2X2/X1X2Y1Y2 sex-linked multivalent in males,42,NA,21
+Isoptera,Termitidae,Cubitermes,Cubitermes_sankurensis,gonochorous,complex XY|homomorphic,X1X1X2X2/X1X2Y1Y2 sex-linked multivalent in males,42,NA,21
+Isoptera,Termitidae,Cubitermes,Cubitermes_sp._1.,gonochorous,complex XY|homomorphic,X1X1X2X2/X1X2Y1Y2 sex-linked multivalent in males,42,NA,21
+Isoptera,Termitidae,Cubitermes,Cubitermes_weissi,gonochorous,complex XY|homomorphic,X1X1X2X2/X1X2Y1Y2 sex-linked multivalent in males,42,NA,21
+Isoptera,Termitidae,Drepanotermes,Drepanotermes_septentrionalis,gonochorous,complex XY|homomorphic,X1X1X2X2/X1X2Y1Y2 sex-linked multivalent in males,42,42,21
+Isoptera,Termitidae,Ephelotermes,Ephelotermes_melachoma,gonochorous,complex XY|homomorphic,X1X1X2X2/X1X2Y1Y2 sex-linked multivalent in males,42,42,21
+Isoptera,Termitidae,Ephelotermes,Ephelotermes_taylori,gonochorous,complex XY|homomorphic,X1X1X2X2/X1X2Y1Y2 sex-linked multivalent in males,42,42,21
+Isoptera,Kalotermitidae,Glyptotermes,Glyptotermes_brevicornis,gonochorous,,,42,NA,21
+Isoptera,Kalotermitidae,Glyptotermes,Glyptotermes_iridipennis,gonochorous,,,NA,42,21
+Isoptera,Kalotermitidae,Incisitermes,Incisitermes_barretti,gonochorous,,,NA,42,21
+Isoptera,Kalotermitidae,Incisitermes,Incisitermes_sp.,gonochorous,,,42,NA,21
+Isoptera,Kalotermitidae,Kalotermes,Kalotermes_flavicollis,,complex XY|homomorphic,X1X1X2X2/X1X2Y1,68,67,34
+Isoptera,Kalotermitidae,Kalotermes,Kalotermes_convexus,gonochorous,,,NA,46,23
+Isoptera,Termitidae,Kalotermes,Kalotermes_approximatus,gonochorous,complex XY|homomorphic,X1X1X2X2/X1X2Y1 sex-linked multivalent in males,34,33,17
+Isoptera,Termitidae,Kalotermes,Kalotermes_approximatus,gonochorous,complex XY|homomorphic,X1X1X2X2/X1X2Y1Y2 sex-linked multivalent in males,32,NA,16
+Isoptera,Termitidae,Kalotermes,Kalotermes_Flavicollis,gonochorous,complex XY|homomorphic,X1X1X2X2/X1X2Y1Y2 sex-linked multivalent in males,61,NA,31
+Isoptera,Termitidae,Lophotermes,Lophotermes_septentrionalis,gonochorous,complex XY|homomorphic,X1X1X2X2/X1X2Y1Y2 sex-linked multivalent in males,42,42,21
+Isoptera,Termitidae,Macrognathotermes,Macrognathotermes_sunteri,gonochorous,complex XY|homomorphic,X1X1X2X2/X1X2Y1Y2 sex-linked multivalent in males,42,42,21
+Isoptera,Termitidae,Macrotermes,Macrotermes_bellicosus,gonochorous,complex XY|homomorphic,X1X1X2X2/X1X2Y1Y2 sex-linked multivalent in males,42,NA,21
+Isoptera,Termitidae,Mastotermes,Mastotermes_darwiniensis,gonochorous,XY|homomorphic, multivalent absent,98,NA,49
+Isoptera,Termitidae,Microcerotermes,Microcerotermes_boreus,gonochorous,complex XY|homomorphic,X1X1X2X2/X1X2Y1Y2 sex-linked multivalent in males,42,42,21
+Isoptera,Termitidae,Microcerotermes,Microcerotermes_nervosus,gonochorous,complex XY|homomorphic,X1X1X2X2/X1X2Y1Y2 sex-linked multivalent in males,42,42,21
+Isoptera,Termitidae,Microcerotermes,Microcerotermes_fuscotibiatis,gonochorous,complex XY|homomorphic,X1X1X2X2/X1X2Y1Y2 sex-linked multivalent in males,42,NA,21
+Isoptera,Termitidae,Microcerotermes,Microcerotermes_parvulus,gonochorous,complex XY|homomorphic,X1X1X2X2/X1X2Y1Y2 sex-linked multivalent in males,42,NA,21
+Isoptera,Termitidae,Microcerotermes,Microcerotermes_sp.1,gonochorous,complex XY|homomorphic,X1X1X2X2/X1X2Y1Y2 sex-linked multivalent in males,44,NA,22
+Isoptera,Termitidae,Microcerotermes,Microcerotermes_sp.2,gonochorous,complex XY|homomorphic,X1X1X2X2/X1X2Y1Y2 sex-linked multivalent in males,42,NA,21
+Isoptera,Termitidae,Microtermes,Microtermes_sp.1,gonochorous,complex XY|homomorphic,X1X1X2X2/X1X2Y1Y2 sex-linked multivalent in males,42,NA,21
+Isoptera,Termitidae,Nasutitermes,Nasutitermes_graveolus,gonochorous,complex XY|homomorphic,X1X1X2X2/X1X2Y1Y2 sex-linked multivalent in males,42,42,21
+Isoptera,Termitidae,Nasutitermes,Nasutitermes_longipennis,gonochorous,complex XY|homomorphic,X1X1X2X2/X1X2Y1Y2 sex-linked multivalent in males,42,42,21
+Isoptera,Termitidae,Nasutitermes,Nasutitermes_triodiae,gonochorous,complex XY|homomorphic,X1X1X2X2/X1X2Y1Y2 sex-linked multivalent in males,42,42,21
+Isoptera,Termitidae,Nasutitermes,Nasutitermes_arboreus,gonochorous,complex XY|homomorphic,X1X1X2X2/X1X2Y1Y2 sex-linked multivalent in males,42,NA,21
+Isoptera,Kalotermitidae,Neotermes,Neotermes_insularis,gonochorous,complex XY,XXXYYY,52,52,26
+Isoptera,Kalotermitidae,Neotermes,Neotermes_insularis,gonochorous,,,NA,60,30
+Isoptera,Termitidae,Noditermes,Noditermes_lamanianus,gonochorous,complex XY|homomorphic,X1X1X2X2/X1X2Y1Y2 sex-linked multivalent in males,38,NA,19
+Isoptera,Termitidae,Odontotermes,Odontotermes_redemanni,gonochorous,complex XY|homomorphic,X1X1X2X2/X1X2Y1Y2 sex-linked multivalent in males,48,NA,24
+Isoptera,Termitidae,Odontotermes,Odontotermes_snyderi,gonochorous,complex XY|homomorphic,X1X1X2X2/X1X2Y1Y2 sex-linked multivalent in males,42,NA,21
+Isoptera,Termitidae,Odontotermes,Odontotermes_sp.1,gonochorous,complex XY|homomorphic,X1X1X2X2/X1X2Y1Y2 sex-linked multivalent in males,42,NA,21
+Isoptera,Termitidae,Ophiotermes,Ophiotermes_mandibularis,gonochorous,complex XY|homomorphic,X1X1X2X2/X1X2Y1Y2 sex-linked multivalent in males,42,NA,21
+Isoptera,Termitidae,Pericapritermes,Pericapritermes_sp.1,gonochorous,complex XY|homomorphic,X1X1X2X2/X1X2Y1Y2 sex-linked multivalent in males,42,NA,21
+Isoptera,Stolotermitidae,Porotermes,Porotermes_adamsoni,gonochorous,,,40,40,20
+Isoptera,Kalotermitidae,Procryptotermes,Procryptotermes_australiensis,gonochorous,complex XY,X1X1X2X2/X1X2Y1,48,47,24
+Isoptera,Termitidae,Procubitermes,Procubitermes_sp._1,gonochorous,complex XY|homomorphic,X1X1X2X2/X1X2Y1Y2 sex-linked multivalent in males,38,NA,19
+Isoptera,Termitidae,Protermes,Protermes_minimus,gonochorous,complex XY|homomorphic,X1X1X2X2/X1X2Y1Y2 sex-linked multivalent in males,42,NA,21
+Isoptera,Termitidae,Pseudacanthotermes,Pseudacanthotermes_militaris,gonochorous,complex XY|homomorphic,X1X1X2X2/X1X2Y1Y2 sex-linked multivalent in males,42,NA,21
+Isoptera,Rhinotermitidae,Reticulitermes,Reticulitermes_urbis,gonochorous,homomorphic,,42,42,21
+Isoptera,Rhinotermitidae,Reticulitermes,Reticulitermes_lucifugus_grassei,gonochorous,complex XY|homomorphic,X1X1X2X2/X1X2Y1Y2 sex-linked multivalent in males,42,42,21
+Isoptera,Termitidae,Reticulitermes,Reticulitermes_flavipes,gonochorous,complex XY|homomorphic,X1X1X2X2/X1X2Y1Y2 sex-linked multivalent in males,42,NA,21
+Isoptera,Termitidae,Reticulitermes,Reticulitermes_lucifugus,gonochorous,complex XY|homomorphic,X1X1X2X2/X1X2Y1Y2 sex-linked multivalent in males,42,NA,21
+Isoptera,Termitidae,Reticutitermes,Reticutitermes_santonensis,gonochorous,complex XY|homomorphic,X1X1X2X2/X1X2Y1Y2 sex-linked multivalent in males,42,NA,21
+Isoptera,Termitidae,Schedorhinotermes,Schedorhinotermes_lamanianus,gonochorous,complex XY|homomorphic,X1X1X2X2/X1X2Y1Y2 sex-linked multivalent in males,38,NA,19
+Isoptera,Stolotermitidae,Stolotermes,Stolotermes_victoriensis,gonochorous,XO,,32,31,16
+Isoptera,Termitidae,Tenuirostritermes,Tenuirostritermes_tenuirostris,gonochorous,complex XY|homomorphic,X1X1X2X2/X1X2Y1Y2 sex-linked multivalent in males,NA,NA,
+Isoptera,Termitidae,Thoracotermes,Thoracotermes_macrothorax,gonochorous,complex XY|homomorphic,X1X1X2X2/X1X2Y1Y2 sex-linked multivalent in males,42,NA,21
+Isoptera,Termitidae,Tuberculitermes,Tuberculitermes_bycanistes,gonochorous,complex XY|homomorphic,X1X1X2X2/X1X2Y1Y2 sex-linked multivalent in males,42,NA,21
+Isoptera,Termitidae,Tumulitermes,Tumulitermes_pastinator,gonochorous,complex XY|homomorphic,X1X1X2X2/X1X2Y1Y2 sex-linked multivalent in males,42,42,21
+Isoptera,Termitidae,Unguitermes,Unguitermes_bouilloni,gonochorous,complex XY|homomorphic,X1X1X2X2/X1X2Y1Y2 sex-linked multivalent in males,42,NA,21
+Isoptera,Termitidae,Zootermopsis,Zootermopsis_angusticollis,gonochorous,complex XY|homomorphic,X1X1X2X2/X1X2Y1Y2 sex-linked multivalent in males,52,NA,26
+Isoptera,Termitidae,Zootermopsis,Zootermopsis_angusticollis,gonochorous,complex XY|homomorphic,X1X1X2X2/X1X2Y1Y2 sex-linked multivalent in males,52,NA,26
+Isoptera,Termitidae,Zootermopsis,Zootermopsis_nevadensis,gonochorous,complex XY|homomorphic,X1X1X2X2/X1X2Y1Y2 sex-linked multivalent in males,52,NA,26
+Mantodea,Hymenopodidae,Acanthops,Acanthops_falcata,,XO,,20,19,10
+Mantodea,Hymenopodidae,Acanthops,Acanthops_godmani,,XO,,20,19,10
+Mantodea,Hymenopodidae,Acontiothespis,Acontiothespis_cordillerae_vitrea,,XO,,16,15,8
+Mantodea,Hymenopodidae,Acontiothespis,Acontiothespis_multicolor,,,,16,NA,8
+Mantodea,Hymenopodidae,Acontiothespis,Acontiothespis_sp.,,XO,,16,15,8
+Mantodea,Mantidae,Aethalochroa,Aethalochroa_ashmoliana,,XO,,30,29,15
+Mantodea,Mantidae,Ameles,Ameles_abjecta,,XO,,30,29,15
+Mantodea,Mantidae,Ameles,Ameles_heldreichi,,XO,,29,28,15
+Mantodea,Mantidae,Ameles,Ameles_sp.,,XO,,21,20,11
+Mantodea,Amorphoscelidae,Amorphoscelis,Amorphoscelis_indica,,XO,,34,33,17
+Mantodea,Mantidae,Angela,Angela_guianensis,,,,NA,19,10
+Mantodea,Hymenopodidae,Antemna,Antemna_rapax,,complex XY,XXY,28,27,14
+Mantodea,Mantidae,Antistia,Antistia_sp.,,XO,,28,27,14
+Mantodea,Mantidae,Apterornantis,Apterornantis_bolivari,,XO,,30,29,15
+Mantodea,Mantidae,Archimantis,Archimantis_quinquelobata,,complex XY,,28,27,14
+Mantodea,Mantidae,Archimantis,Archimantis_sobrina,,complex XY,,28,27,14
+Mantodea,Mantidae,Arneles,Arneles_cypria,,XO,,27,26,14
+Mantodea,Mantidae,Bisanthe,Bisanthe_pulchripennis,,XO,,22,21,11
+Mantodea,Mantidae,Bolbe,Bolbe_nigra,,XO,,30,25,15
+Mantodea,Mantidae,Bolbe,Bolbe_pallida,,XO,,30,25,15
+Mantodea,Mantidae,Brunneria,Brunneria_borealis,,,,28,NA,14
+Mantodea,Mantidae,Callimantis,Callimantis_antillarum,,XO,,18,17,9
+Mantodea,Mantidae,Cheddikulama,Cheddikulama_straminea,,complex XY,XXY,28,27,14
+Mantodea,Mantidae,Choeradodis,Choeradodis_rhombicollis,,complex XY,XXY,32,31,16
+Mantodea,Amorphoscelidae,Cliomantis,Cliomantis_cornuta,,XO,,26,25,13
+Mantodea,Mantidae,Compsothespis,Compsothespis_anomala,,complex XY,XXY,30,23,15
+Mantodea,Mantidae,Compsothespis,Compsothespis_natalica,,complex XY,XXY,30,23,15
+Mantodea,Hymenopodidae,Creobroter,Creobroter_gemmatus,,XO,,28,27,14
+Mantodea,Hymenopodidae,Creobroter,Creobroter_laevicollis,,XO,,28,27,14
+Mantodea,Hymenopodidae,Creobroter,Creobroter_urbanus,,XO,,28,27,14
+Mantodea,Mantidae,Deiphobe,Deiphobe_brunneri,,XO,,20,19,10
+Mantodea,Mantidae,Deiphobe,Deiphobe_indica,,complex XY,XXY,28,27,14
+Mantodea,Eremiaphilidae,Didymocorypha,Didymocorypha_lanceolata,,XO,,16,15,8
+Mantodea,Eremiaphilidae,Didymocorypha,Didymocorypha_lanceolata,,XO,,18,17,9
+Mantodea,Mantidae,Dystacta,Dystacta_alticeps,,XO,,26,25,13
+Mantodea,Empusidae,Empusa,Empusa_egena,,XO,,28,27,14
+Mantodea,Empusidae,Empusa,Empusa_pauperata,,XO,,28,27,14
+Mantodea,Empusidae,Empusa,Empusa_spinosa,,XO,,28,27,14
+Mantodea,Hymenopodidae,Euantissa,Euantissa_ornata,,XO,,34,33,17
+Mantodea,Amorphoscelidae,Glabromantis,Glabromantis_nebulosa,,XO,,26,25,13
+Mantodea,Empusidae,Gongylus,Gongylus_gongyloides,,XO,,28,27,14
+Mantodea,Mantidae,Haldwania,Haldwania_liliputana,,XO,,16,15,8
+Mantodea,Hymenopodidae,Harpagomantis,Harpagomantis_tricolor,,XO,,26,25,13
+Mantodea,Hymenopodidae,Hestiasula,Hestiasula_brunneriana,,XO,,28,27,14
+Mantodea,Mantidae,Hierodula,Hierodula_coarctata,,complex XY,,28,27,14
+Mantodea,Mantidae,Hierodula,Hierodula_patellifera,,complex XY,XXY,28,27,14
+Mantodea,Mantidae,Hierodula,Hierodula_sp.,,complex XY,XXY,28,27,14
+Mantodea,Mantidae,Hierodula,Hierodula_tenuidentata,,complex XY,,28,27,14
+Mantodea,Mantidae,Hierodula,Hierodula_venosa,,complex XY,XXY,28,27,14
+Mantodea,Mantidae,Hierodula,Hierodula_ventralis,,complex XY,,28,27,14
+Mantodea,Mantidae,Holaptilon,Holaptilon_pusillulurn,,XO,,30,29,15
+Mantodea,Mantidae,Hoplocorypha,Hoplocorypha_macra,,XO,,36,35,18
+Mantodea,Mantidae,Hoplocorypha,Hoplocorypha_sp.,,XO,,28,27,14
+Mantodea,Eremiaphilidae,Humbertiella,Humbertiella_indica,,XO,,24,23,12
+Mantodea,Eremiaphilidae,Humbertiella,Humbertiella_n.sp.,,XO,,40,39,20
+Mantodea,Eremiaphilidae,Humbertiella,Humbertiella_similis,,XO,,32,31,16
+Mantodea,Eremiaphilidae,Humbertiella,Humbertiella_sp.,,XO,,22,21,11
+Mantodea,Mantidae,Ima,Ima_fusca,,XY,,34,34,17
+Mantodea,Mantidae,Iris,Iris_aratoria,,XO,,26,25,13
+Mantodea,Mantidae,Kongobatha,Kongobatha_diadernata,,XO,,30,25,15
+Mantodea,Mantidae,Leptomantis,Leptomantis_parva,,XO,,40,39,20
+Mantodea,Mantidae,Ligaria,Ligaria_quadripunctata,,XO,,24,23,12
+Mantodea,Mantidae,Liturgusa,Liturgusa_actuosa,,XO,,24,23,12
+Mantodea,Mantidae,Liturgusa,Liturgusa_cursor,,XO,,34,33,17
+Mantodea,Mantidae,Liturgusa,Liturgusa_maya,,XO,,18,17,9
+Mantodea,Mantidae,Liturgusa,Liturgusa_sp.,,XO,,22,21,11
+Mantodea,Mantidae,Mantis,Mantis_octospilota,,complex XY,XXY,28,27,14
+Mantodea,Mantidae,Mantis,Mantis_religiosa,,complex XY,XXY,28,27,14
+Mantodea,Mantoididae,Mantoida,Mantoida_schraderi,,XO,,38,37,19
+Mantodea,Mantidae,Melliera,Melliera_brevipes,,complex XY,XXY,28,27,14
+Mantodea,Mantidae,Miomantis,Miomantis_sp.,,XO,,16,15,8
+Mantodea,Mantidae,Nullabora,Nullabora_flavoguttata,,complex XY,,28,27,14
+Mantodea,Mantidae,Oligonyx,Oligonyx_dohrnianus,,XO,,30,19,15
+Mantodea,Mantidae,Orthodera,Orthodera_gunnii,,complex XY,XXY,26,25,13
+Mantodea,Mantidae,Orthodera,Orthodera_ministralis,,complex XY,XXY,26,25,13
+Mantodea,Mantidae,Orthoderina,Orthoderina_straminea,,complex XY,XXY,26,25,13
+Mantodea,Mantidae,Oxyopsis,Oxyopsis_rubicunda,,complex XY,XXY,28,27,14
+Mantodea,Mantidae,Paratenodera,Paratenodera_sinensis,,complex XY,XXY,28,27,14
+Mantodea,Mantidae,Parathespis,Parathespis_humbertiana,,XO,,32,31,16
+Mantodea,Mantidae,Phyllovates,Phyllovates_tripunctata,,complex XY,XXY,28,27,14
+Mantodea,Mantidae,Polyspilota,Polyspilota_aeruginosa,,complex XY,XXY,28,27,14
+Mantodea,Mantidae,Polyspilota,Polyspilota_sp.,,complex XY,XXY,28,27,14
+Mantodea,Mantidae,Promiopteryx,Promiopteryx_granadensis,,XO,,20,19,10
+Mantodea,Hymenopodidae,Pseudacanthops,Pseudacanthops_medusa,,,,20,NA,10
+Mantodea,Mantidae,Pseudomiopteryx,Pseudomiopteryx_infuscata,,XO,,18,17,9
+Mantodea,Mantidae,Rhodamantis,Rhodamantis_pulchella,,complex XY,,28,27,14
+Mantodea,Mantidae,Rhodamantis,Rhodamantis_sp3',,complex XY,XXY,28,27,14
+Mantodea,Mantidae,Schizocephala,Schizocephala_bicornis,,XO,,30,27,15
+Mantodea,Mantidae,Sp.,Sp._Sp,,XO,,30,25,15
+Mantodea,Mantidae,Sphodromantis,Sphodromantis_gastrica,,complex XY,XXY,28,27,14
+Mantodea,Mantidae,Sphodropoda,Sphodropoda_sp4,,complex XY,XXY,28,27,14
+Mantodea,Mantidae,Sphodropoda,Sphodropoda_tristis,,complex XY,,28,27,14
+Mantodea,Mantidae,Sphodrornantis,Sphodrornantis_viridis,,complex XY,XXY,24,23,12
+Mantodea,Mantidae,Stagomantis,Stagomantis_heterogamia,,complex XY,,28,27,14
+Mantodea,Mantidae,Stagornantis,Stagornantis_carolina,,complex XY,,28,27,14
+Mantodea,Mantidae,Stagrnatoptera,Stagrnatoptera_septentrionalis,,complex XY,,28,27,14
+Mantodea,Mantidae,Statilia,Statilia_maculata,,complex XY,XXY,28,27,14
+Mantodea,Mantidae,Tenodera,Tenodera_aridifolia,,complex XY,XXY,28,27,14
+Mantodea,Mantidae,Tenodera,Tenodera_australasiae,,complex XY,XXY,28,27,14
+Mantodea,Mantidae,Tenodera,Tenodera_superstitiosa,,complex XY,XXY,28,27,14
+Mantodea,Mantidae,Thesprotia,Thesprotia_filum,,XO,,30,23,15
+Mantodea,Mantidae,Thesprotia,Thesprotia_graminis,,XO,,30,23,15
+Mantodea,Hymenopodidae,Tithrone,Tithrone_roseipennis,,XO,,16,15,8
+Mantodea,Mantidae,Toxomantis,Toxomantis_sinensis,,XO,,28,27,14
+Mantodea,Mantidae,Vates,Vates_pectinicornis,,complex XY,XXY,28,27,14
+Mantophasmatodea,Austrophasmatidae,Karoophasma,Karoophasma_biedouwense,,XO,,14,13,7
+Orthoptera,Acrididae,Abracris,Abracris_dilecta,,XO,,24,23,12
+Orthoptera,Acrididae,Abracris,Abracris_sp._B,,XO,,22,21,11
+Orthoptera,Acrididae,Adimantus,Adimantus_cubiceps,,XO,,24,23,12
+Orthoptera,Acrididae,Adimantus,Adimantus_ornatissimus,,XO,,24,23,12
+Orthoptera,Tettigoniidae,Aerotegmina,Aerotegmina_kilimandjarica,gonochorous,XO,,34,33,17
+Orthoptera,Tettigoniidae,Aerotegmina,Aerotegmina_shengenae,gonochorous,XO,,28,27,14
+Orthoptera,Acrididae,Albretchia,Albretchia_palpata,,XO,,24,23,12
+Orthoptera,Romaleidae,Alcamenes,Alcamenes_clarazianus,,XO,,24,23,12
+Orthoptera,Acrididae,Aleuas,Aleuas_gracilis,,XY,,20,20,10
+Orthoptera,Acrididae,Aleuas,Aleuas_lineatus,,XY,,20,20,10
+Orthoptera,Acrididae,Aleuas,Aleuas_sp._1,,XY,,20,20,10
+Orthoptera,Acrididae,Aleuas,Aleuas_sp._2,,XY,,22,22,11
+Orthoptera,Acrididae,Aleuas,Aleuas_sp._3,,XY,,20,20,10
+Orthoptera,Acrididae,Aleuas,Aleuas_vitticollis,,XO,,20,19,10
+Orthoptera,Acrididae,Allotruxalis,Allotruxalis_sp.,,XO,,24,23,12
+Orthoptera,Acrididae,Allotruxalis,Allotruxalis_strigata,,XO,,24,23,12
+Orthoptera,Acrididae,Amblytropidia,Amblytropidia_australis,,XO,,24,23,12
+Orthoptera,Romaleidae,Antandrus,Antandrus_viridus,,XO,,24,23,12
+Orthoptera,Acrididae,Apacris,Apacris_rubrithorax,,XO,,24,23,12
+Orthoptera,Acrididae,Apacris,Apacris_sp._1,,XO,,24,23,12
+Orthoptera,Acrididae,Apolobamba,Apolobamba_prope_pulchra,,XO,,24,23,12
+Orthoptera,Tristiridae,Atacamacris,Atacamacris_diminuta,,XY,,10,10,5
+Orthoptera,Acrididae,Atrachelacris,Atrachelacris_olivaceus,,XY,,22,22,11
+Orthoptera,Acrididae,Atrachelacris,Atrachelacris_unicolor,,XY,,22,22,11
+Orthoptera,Ommexechidae,Aucacris,Aucacris_bullocki,,XO,,24,23,12
+Orthoptera,Acrididae,Baeacris,Baeacris_punctulatus,gonochorous,XY,,22,22,11
+Orthoptera,Acrididae,Belosacris,Belosacris_coccineipes,,XO,,24,23,12
+Orthoptera,Acrididae,Bucephalacris,Bucephalacris_bohlsii,,XO,,22,21,11
+Orthoptera,Ommexechidae,Calcitrena,Calcitrena_maculosa,,XO,,24,23,12
+Orthoptera,Acrididae,Carbonellacris,Carbonellacris_grossa,,XO,,24,23,12
+Orthoptera,Romaleidae,Chariacris,Chariacris_miniacea,,XO,,24,23,12
+Orthoptera,Acrididae,Chirista,Chirista_compta,gonochorous,XO,,24,23,12
+Orthoptera,Acrididae,Chlorus,Chlorus_bolivianus,,XO,,20,19,10
+Orthoptera,Acrididae,Chlorus,Chlorus_borrelli,,XO,,22,21,11
+Orthoptera,Acrididae,Chlorus,Chlorus_sp._1,,XO,,20,19,10
+Orthoptera,Acrididae,Chlorus,Chlorus_vittatus,,XO,,24,23,12
+Orthoptera,Romaleidae,Chromacris,Chromacris_miles,,XO,,24,23,12
+Orthoptera,Romaleidae,Chromacris,Chromacris_peruviana,,XO,,24,23,12
+Orthoptera,Romaleidae,Chromacris,Chromacris_speciosa,,XO,,24,23,12
+Orthoptera,Ommexechidae,Clarazella,Clarazella_bimaculata,,XO,,24,23,12
+Orthoptera,Ommexechidae,Clarazella,Clarazella_patagona,,XO,,24,23,12
+Orthoptera,Acrididae,Cocytolettix,Cocytolettix_argentina,,XO,,24,23,12
+Orthoptera,Acrididae,Cocytolettix,Cocytolettix_intermedia,,XO,,24,23,12
+Orthoptera,Acrididae,Cocytolettix,Cocytolettix_pulchripennis,,XO,,24,23,12
+Orthoptera,Acrididae,Cocytolettix,Cocytolettix_sp._1,,XO,,24,23,12
+Orthoptera,Ommexechidae,Conometopus,Conometopus_sulcaticollis,,XO,,26,25,13
+Orthoptera,Acrididae,Cornops,Cornops_aquaticum,,XO,,24,23,12
+Orthoptera,Acrididae,Cornops,Cornops_frenatum,,XO,,24,23,12
+Orthoptera,Romaleidae,Coryacris,Coryacris_angustipennis,,XO,,24,23,12
+Orthoptera,Acrididae,Coryphosima,Coryphosima_stenoptera,gonochorous,XO,,24,23,12
+Orthoptera,Acrididae,Covasacris,Covasacris_sp.,,XO,,24,23,12
+Orthoptera,Ommexechidae,Cumainocloidus,Cumainocloidus_cordillerae,,XO,,24,23,12
+Orthoptera,Ommexechidae,Descampsacris,Descampsacris_serrulata,,XO,,24,23,12
+Orthoptera,Acrididae,Dichromatos,Dichromatos_corupa,gonochorous,XY,X1X1X2X2/X1X2Y,22,21,11
+Orthoptera,Acrididae,Dichromatos,Dichromatos_lilloanus,gonochorous,XY,X1X1X2X2/X1X2Y,22,21,11
+Orthoptera,Acrididae,Dichromatos,Dichromatos_montanus,gonochorous,XY,X1X1X2X2/X1X2Y,22,21,11
+Orthoptera,Acrididae,Dichromatos,Dichromatos_schrottkyi,gonochorous,XY,X1X1X2X2/X1X2Y,22,21,11
+Orthoptera,Acrididae,Dichromorpha,Dichromorpha_australis,,XO,,24,23,12
+Orthoptera,Acrididae,Dichroplus,Dichroplus_alejomesai,,XO,,24,23,12
+Orthoptera,Acrididae,Dichroplus,Dichroplus_auriventris,,XO,,24,23,12
+Orthoptera,Acrididae,Dichroplus,Dichroplus_bergi,,XY,,22,22,11
+Orthoptera,Acrididae,Dichroplus,Dichroplus_conspersus,,XO,,24,23,12
+Orthoptera,Acrididae,Dichroplus,Dichroplus_democraticus,,XO,,24,23,12
+Orthoptera,Acrididae,Dichroplus,Dichroplus_dubius,,complex XY,X1X1X2X2/X1X2Y,22,21,11
+Orthoptera,Acrididae,Dichroplus,Dichroplus_elongatus,,XO,,24,23,12
+Orthoptera,Acrididae,Dichroplus,Dichroplus_exilis,,XO,,24,23,12
+Orthoptera,Acrididae,Dichroplus,Dichroplus_fuscus,,XO,,24,23,12
+Orthoptera,Acrididae,Dichroplus,Dichroplus_fuscus.2,,XO,,20,19,10
+Orthoptera,Acrididae,Dichroplus,Dichroplus_maculipennis,,XO,,24,23,12
+Orthoptera,Acrididae,Dichroplus,Dichroplus_mantiqueirae,,XO,,24,23,12
+Orthoptera,Acrididae,Dichroplus,Dichroplus_misionensis,,XO,,24,23,12
+Orthoptera,Acrididae,Dichroplus,Dichroplus_obsurus,,XY,,18,18,9
+Orthoptera,Acrididae,Dichroplus,Dichroplus_paraelongatus,,XO,,24,23,12
+Orthoptera,Acrididae,Dichroplus,Dichroplus_paraguayensis,,XY,,20,20,10
+Orthoptera,Acrididae,Dichroplus,Dichroplus_patruelis,,XO,,22,21,11
+Orthoptera,Acrididae,Dichroplus,Dichroplus_piceomaculatus,,XY,,22,22,11
+Orthoptera,Acrididae,Dichroplus,Dichroplus_porteri,,XY,,22,22,11
+Orthoptera,Acrididae,Dichroplus,Dichroplus_pratensis,,XO,,20,19,10
+Orthoptera,Acrididae,Dichroplus,Dichroplus_pseudopunctulatus,,XO,,24,23,12
+Orthoptera,Acrididae,Dichroplus,Dichroplus_punctulatus,,XO,,24,23,12
+Orthoptera,Acrididae,Dichroplus,Dichroplus_robustulus,,XO,,24,23,12
+Orthoptera,Acrididae,Dichroplus,Dichroplus_robustus,,complex XY,X1X1X2X2/X1X2Y,22,21,11
+Orthoptera,Acrididae,Dichroplus,Dichroplus_schulzi,,XO,,24,23,12
+Orthoptera,Acrididae,Dichroplus,Dichroplus_silveiraguidoi,,XY,,8,8,4
+Orthoptera,Acrididae,Dichroplus,Dichroplus_sp._11,,XO,,24,23,12
+Orthoptera,Acrididae,Dichroplus,Dichroplus_sp._12,,XY,,20,20,10
+Orthoptera,Acrididae,Dichroplus,Dichroplus_sp._13,,XY,,20,20,10
+Orthoptera,Acrididae,Dichroplus,Dichroplus_sp._14,,XY,,22,22,11
+Orthoptera,Acrididae,Dichroplus,Dichroplus_sp._15,,XY,,20,20,10
+Orthoptera,Acrididae,Dichroplus,Dichroplus_sp._16,,XY,,22,22,11
+Orthoptera,Acrididae,Dichroplus,Dichroplus_vittatus,,XY,,20,20,10
+Orthoptera,Acrididae,Dichroplus,Dichroplus_vittatus.2,,XY,,18,18,9
+Orthoptera,Acrididae,Dichroplus,Dichroplus_vittigerum,,XY,,18,18,9
+Orthoptera,Romaleidae,Diponthus,Diponthus_clarazianus,,XO,,24,23,12
+Orthoptera,Romaleidae,Diponthus,Diponthus_communis,,XY,,22,22,11
+Orthoptera,Romaleidae,Diponthus,Diponthus_dispar,,XO,,22,21,11
+Orthoptera,Romaleidae,Diponthus,Diponthus_electus,,XO,,22,21,11
+Orthoptera,Romaleidae,Diponthus,Diponthus_maculiferus,,XO,,22,21,11
+Orthoptera,Romaleidae,Diponthus,Diponthus_prope_communis,,XO,,24,23,12
+Orthoptera,Romaleidae,Diponthus,Diponthus_sp.,,XO,,24,23,12
+Orthoptera,Romaleidae,Elaeochlora,Elaeochlora_basalis,,XO,,24,23,12
+Orthoptera,Romaleidae,Elaeochlora,Elaeochlora_brachyptera,,XO,,24,23,12
+Orthoptera,Romaleidae,Elaeochlora,Elaeochlora_sp.,,XO,,24,23,12
+Orthoptera,Romaleidae,Elaeochlora,Elaeochlora_trilineata,,XO,,24,23,12
+Orthoptera,Romaleidae,Elaeochlora,Elaeochlora_viridicata,,XO,,24,23,12
+Orthoptera,Tristiridae,Elysiacris,Elysiacris_angusticollis,,XO,,22,21,11
+Orthoptera, Phalangopsidae,Endecous,Endecous_onthophagus,gonochorous,XO,,20,19,10
+Orthoptera, Phalangopsidae,Endecous,Endecous_itatibensis,gonochorous,XO,,20,19,10
+Orthoptera, Phalangopsidae,Endecous,Endecous_cavernicolus,gonochorous,XO,,22,21,11
+Orthoptera, Phalangopsidae,Endecous,Endecous_batariensis,gonochorous,XO,,22,21,11
+Orthoptera, Phalangopsidae,Endecous,Endecous_alejomesai,gonochorous,XO,,22,21,11
+Orthoptera,Acrididae,Eucephalacris,Eucephalacris_borellii,,XO,,24,23,12
+Orthoptera,Acrididae,Eujivarus,Eujivarus_fusiformis,,XO,,22,21,11
+Orthoptera,Acrididae,Eujivarus,Eujivarus_sp._A,,XO,,22,21,11
+Orthoptera,Acrididae,Eujivarus,Eujivarus_sp._B,,XO,,22,21,11
+Orthoptera,Acrididae,Eujivarus,Eujivarus_sp._C,,XO,,22,21,11
+Orthoptera,Acrididae,Eujivarus,Eujivarus_vittatus,,XO,,24,23,12
+Orthoptera,Acrididae,Eulampiacris,Eulampiacris_leucoptera,,XO,,24,23,12
+Orthoptera,Acrididae,Euplectrotettix,Euplectrotettix_sp._1,,XO,,24,23,12
+Orthoptera,Acrididae,Euplectrotettix,Euplectrotettix_sp._2,,XO,,24,23,12
+Orthoptera,Acrididae,Euplectrotettix,Euplectrotettix_sp._3,,XO,,24,23,12
+Orthoptera,Acrididae,Eurotettix,Eurotettix_lilloanus,,complex XY,X1X1X2X2/X1X2Y,22,21,11
+Orthoptera,Acrididae,Eurotettix,Eurotettix_minor,,XY,,22,22,11
+Orthoptera,Acrididae,Eurotettix,Eurotettix_schrottkyi,,complex XY,X1X1X2X2/X1X2Y,22,21,11
+Orthoptera,Acrididae,Eurotettix,Eurotettix_sp._1,,complex XY,X1X1X2X2/X1X2Y,22,21,11
+Orthoptera,Acrididae,Eurotettix,Eurotettix_sp._2,,complex XY,X1X1X2X2/X1X2Y,22,21,11
+Orthoptera,Acrididae,Eusitalces,Eusitalces_sp._A,,XO,,24,23,12
+Orthoptera,Acrididae,Eusitalces,Eusitalces_vulneratus,,XO,,24,23,12
+Orthoptera,Romaleidae,Eutropidacris,Eutropidacris_collares,,XO,,24,23,12
+Orthoptera,Acrididae,Eutryxalis,Eutryxalis_sp.,,XO,,24,23,12
+Orthoptera,Acrididae,Fenestra,Fenestra_bohlsii,,XO,,24,23,12
+Orthoptera,Ommexechidae,Graea,Graea_horrida,,XO,,24,23,12
+Orthoptera,Gryllotalpidae,Gryllotalpa,Gryllotalpa_marismortui,,XO,,24,23,12
+Orthoptera,Gryllotalpidae,Gryllotalpa,Gryllotalpa_tali,,XO,,20,19,10
+Orthoptera,Gryllotalpidae,Gryllotalpa,Gryllotalpa_gryllotalpa,,XY,,12,12,6
+Orthoptera,Gryllotalpidae,Gryllotalpa,Gryllotalpa_stepposa,,XY,,12,12,6
+Orthoptera,Gryllotalpidae,Gryllotalpa,Gryllotalpa_unispina,,XO,,20,19,10
+Orthoptera,Acrididae,Haroldgrantia,Haroldgrantia_lignosa,,XO,,24,23,12
+Orthoptera,Acrididae,Hyalopteryx,Hyalopteryx_rufipennis,,XO,,24,23,12
+Orthoptera,Tristiridae,Illapelia,Illapelia_penai,,XO,,24,23,12
+Orthoptera,Acrididae,Isonyx,Isonyx_paragauyensis,,XO,,24,23,12
+Orthoptera,Acrididae,Isonyx,Isonyx_sp._1,,XO,,24,23,12
+Orthoptera,Tettigoniidae,Isophya,Isophya_modestior,gonochorous,XO,,32,31,16
+Orthoptera,Tettigoniidae,Isophya,Isophya_rammei,gonochorous,XO,,32,31,16
+Orthoptera,Tettigoniidae,Isophya,Isophya_rectipennis,gonochorous,XO,,32,31,16
+Orthoptera,Tettigoniidae,Isophya,Isophya_kalishevskii,gonochorous,XO,,32,31,16
+Orthoptera,Tettigoniidae,Isophya,Isophya_schneideri,gonochorous,XO,,32,31,16
+Orthoptera,Tettigoniidae,Isophya,Isophya_speciosa,gonochorous,XO,,32,31,16
+Orthoptera,Tettigoniidae,Isophya,Isophya_hospodat,gonochorous,XO,,32,31,16
+Orthoptera,Tettigoniidae,Isophya,Isophya_tosevski,gonochorous,XO,,32,31,16
+Orthoptera,Tettigoniidae,Isophya,Isophya_andreevae,gonochorous,XO,,32,31,16
+Orthoptera,Tettigoniidae,Isophya,Isophya_miksici,gonochorous,XO,,32,31,16
+Orthoptera,Tettigoniidae,Isophya,Isophya_plevnensis,gonochorous,XO,,32,31,16
+Orthoptera,Tettigoniidae,Isophya,Isophya_pravdini pravdini,gonochorous,XO,,32,31,16
+Orthoptera,Tettigoniidae,Isophya,Isophya_pravdini adamovici,gonochorous,XO,,32,31,16
+Orthoptera,Tettigoniidae,Isophya,Isophya_modesta longicaudata,gonochorous,XO,,32,31,16
+Orthoptera,Tettigoniidae,Isophya,Isophya_rhodopensis,gonochorous,XO,,32,31,16
+Orthoptera,Tettigoniidae,Isophya,Isophya_petkovi,gonochorous,XO,,32,31,16
+Orthoptera,Tettigoniidae,Isophya,Isophya_kisi,gonochorous,XO,,32,31,16
+Orthoptera,Tettigoniidae,Isophya,Isophya_bureschi,gonochorous,XO,,32,31,16
+Orthoptera,Tettigoniidae,Isophya,Isophya_gulae,gonochorous,XO,,32,31,16
+Orthoptera,Tettigoniidae,Isophya,Isophya_obtusa,gonochorous,XO,,32,31,16
+Orthoptera,Tettigoniidae,Isophya,Isophya_altaica,gonochorous,XO,,32,31,16
+Orthoptera,Tettigoniidae,Isophya,Isophya_camptoxypha,gonochorous,XO,,32,31,16
+Orthoptera,Tettigoniidae,Isophya,Isophya_krausii,gonochorous,XO,,32,31,16
+Orthoptera,Tettigoniidae,Isophya,Isophya_pienensis,gonochorous,XO,,32,31,16
+Orthoptera,Tettigoniidae,Isophya,Isophya_hemiptera,gonochorous,XY,neo-XY,30,30,15
+Orthoptera,Acrididae,Jodacris,Jodacris_chapadensis,,XO,,20,19,10
+Orthoptera,Acrididae,Jodacris,Jodacris_ferrugineus,,XO,,20,19,10
+Orthoptera,Acrididae,Jodacris,Jodacris_furcillata,,XO,,20,19,10
+Orthoptera,Lentulidae,Karruacris,Karruacris_browni,gonochorous,XY,X1X1X2X2/X1X2Y,NA,NA,
+Orthoptera,Acrididae,Lamiacris,Lamiacris_migroguttata,,XO,,24,23,12
+Orthoptera,Acrididae,Laplatacris,Laplatacris_dispar,,XO,,24,23,12
+Orthoptera,Acrididae,Laplatacris,Laplatacris_sp._1,,XO,,24,23,12
+Orthoptera,Acrididae,Leiotettix,Leiotettix_politus,gonochorous,XY,X1X1X2X2/X1X2Y,14,NA,7
+Orthoptera,Acrididae,Leiotettix,Leiotettix_flavipes,,XY,,22,22,11
+Orthoptera,Acrididae,Leiotettix,Leiotettix_politus,,XY,,14,14,7
+Orthoptera,Acrididae,Leiotettix,Leiotettix_politus.2,,complex XY,X1X1X2X2/X1X2Y,14,13,7
+Orthoptera,Acrididae,Leiotettix,Leiotettix_pulcher,,XY,,22,22,11
+Orthoptera,Acrididae,Leiotettix,Leiotettix_sanguineus,,XO,,24,23,12
+Orthoptera,Acrididae,Leiotettix,Leiotettix_sp._1,,complex XY,X1X1X2X2/X1X2Y,16,15,8
+Orthoptera,Acrididae,Leiotettix,Leiotettix_sp._2,,XY,,18,18,9
+Orthoptera,Acrididae,Leiotettix,Leiotettix_sp._3,,XO,,24,23,12
+Orthoptera,Acrididae,Leiotettix,Leiotettix_viridis,,XO,,24,23,12
+Orthoptera,Acrididae,Leptysma,Leptysma_dorsalis,,XO,,24,23,12
+Orthoptera,Acrididae,Leptysmina,Leptysmina_pallida,,XO,,24,23,12
+Orthoptera,Acrididae,Leptysmina,Leptysmina_sp._1,,XO,,24,23,12
+Orthoptera,Acrididae,Machaeropeles,Machaeropeles_rostratum,,XO,,24,23,12
+Orthoptera,Pauliniidae,Marellia,Marellia_remipes,,XO,,24,23,12
+Orthoptera,Acrididae,Mastusia,Mastusia_quadricarinata,,XO,,24,23,12
+Orthoptera,Acrididae,Meloscirtus,Meloscirtus_montanus,,XO,,24,23,12
+Orthoptera,Acrididae,Meloscirtus,Meloscirtus_sp._1,,XO,,24,23,12
+Orthoptera,Acrididae,Metaleptea,Metaleptea_brevicornis_adspersa,,XO,,24,23,12
+Orthoptera,Acrididae,Nahuelia,Nahuelia_rubriventris,,XO,,24,23,12
+Orthoptera,Acrididae,Neopedies,Neopedies_brunneri,,XO,,24,23,12
+Orthoptera,Acrididae,Neopedies,Neopedies_sp._1,,XO,,24,23,12
+Orthoptera,Acrididae,Neopedies,Neopedies_sp._2,,XO,,24,23,12
+Orthoptera,Acrididae,Neopedies,Neopedies_sp._3,,XO,,24,23,12
+Orthoptera,Acrididae,Neopedies,Neopedies_sp._4,,XO,,24,23,12
+Orthoptera,Ommexechidae,Neuquina,Neuquina_fictor,,XY,,22,22,11
+Orthoptera,Acrididae,Notopomala,Notopomala_glaucipes,,XO,,24,23,12
+Orthoptera,Acrididae,Omalotettix,Omalotettix_obliquum,,XO,,22,21,11
+Orthoptera,Acrididae,Ommatolampis,Ommatolampis_perspicillata,,XO,,24,23,12
+Orthoptera,Ommexechidae,Ommexecha,Ommexecha_sp.,,XO,,24,23,12
+Orthoptera,Ommexechidae,Ommexecha,Ommexecha_virens,,XO,,24,23,12
+Orthoptera,Ommexechidae,Ommexechia,Ommexechia_germari,,XO,,22,21,11
+Orthoptera,Pyrgomorphidae,Omura,Omura_congrua,,XO,,20,19,10
+Orthoptera,Acrididae,Orphula,Orphula_sp.,,XO,,24,23,12
+Orthoptera,Acrididae,Orphulella,Orphulella_concinnula,,XO,,24,23,12
+Orthoptera,Acrididae,Orphulella,Orphulella_punctata,,XO,,24,23,12
+Orthoptera,Acrididae,Orphulella,Orphulella_sp.,,XO,,24,23,12
+Orthoptera,Acrididae,Orphulina,Orphulina_pulchella,,XO,,24,23,12
+Orthoptera,Acrididae,Osmilia,Osmilia_flavolineata,,XO,,24,23,12
+Orthoptera,Acrididae,Oxyblepta,Oxyblepta_sp.,,XO,,24,23,12
+Orthoptera,Acrididae,Oxybleptella,Oxybleptella_sagitta,,XO,,24,23,12
+Orthoptera,Ommexechidae,Pachyosa,Pachyosa_signata,,XY,,22,22,11
+Orthoptera,Acrididae,Paraorphula,Paraorphula_graminea,,XO,,24,23,12
+Orthoptera,Acrididae,Parapellopedon,Parapellopedon_instabilis,,XO,,24,23,12
+Orthoptera,Acrididae,Parapellopedon,Parapellopedon_sp.,,XO,,24,23,12
+Orthoptera,Acrididae,Parascopas,Parascopas_exertus,,XO,,22,21,11
+Orthoptera,Acrididae,Parascopas,Parascopas_obesus,,XO,,24,23,12
+Orthoptera,Acrididae,Parascopas,Parascopas_sanguineus,,XO,,24,23,12
+Orthoptera,Acrididae,Parascopas,Parascopas_similis,,XO,,24,23,12
+Orthoptera,Acrididae,Paratylotropidia,Paratylotropidia_morsei,gonochorous,XY,X1X1X2X2/X1X2Y,NA,NA,
+Orthoptera,Acrididae,Paropaon,Paropaon_laevifrons,,XO,,24,23,12
+Orthoptera,Acrididae,Paropaon,Paropaon_pilosus_tingomariae,,XO,,24,23,12
+Orthoptera,Pauliniidae,Paulinia,Paulinia_acuminata,,XO,,24,23,12
+Orthoptera,Acrididae,Pedies,Pedies_andeanus,,XO,,22,21,11
+Orthoptera,Acrididae,Pedies,Pedies_sp._1,,XO,,22,21,11
+Orthoptera,Acrididae,Pedies,Pedies_sp._2,,XO,,22,21,11
+Orthoptera,Acrididae,Pedies,Pedies_sp._3,,XO,,22,21,11
+Orthoptera,Acrididae,Pedies,Pedies_sp._4,,XO,,24,23,12
+Orthoptera,Tristiridae,Peplacris,Peplacris_recutita,,XO,,22,21,11
+Orthoptera,Romaleidae,Prionolopha,Prionolopha_serrata,,XO,,24,23,12
+Orthoptera,Romaleidae,Procolpia,Procolpia_minor,,XO,,24,23,12
+Orthoptera,Acrididae,Propedies,Propedies_bilobus,,XO,,24,23,12
+Orthoptera,Acrididae,Propedies,Propedies_bipunctatus,,XO,,24,23,12
+Orthoptera,Acrididae,Propedies,Propedies_fusiformis,,XO,,24,23,12
+Orthoptera,Acrididae,Propedies,Propedies_olivaceus,,XO,,24,23,12
+Orthoptera,Acrididae,Propedies,Propedies_sanguineus,,XO,,24,23,12
+Orthoptera,Acrididae,Propedies,Propedies_sp._1,,XO,,24,23,12
+Orthoptera,Acrididae,Pseudoscopas,Pseudoscopas_nigrigena,,XO,,24,23,12
+Orthoptera,Acrididae,Pseudoscopas,Pseudoscopas_sp._1,,XO,,24,23,12
+Orthoptera,Acrididae,Pseudoscopas,Pseudoscopas_sp._2,,XO,,24,23,12
+Orthoptera,Acrididae,Pseudoscopas,Pseudoscopas_sp._3,,XO,,24,23,12
+Orthoptera,Acrididae,Pseudoscopas,Pseudoscopas_sp._4,,XO,,24,23,12
+Orthoptera,Acrididae,Pseudoscopas,Pseudoscopas_sp._5,,XO,,24,23,12
+Orthoptera,Acrididae,Pseudoscopas,Pseudoscopas_sp._6,,XO,,24,23,12
+Orthoptera,Acrididae,Pseudoscopas,Pseudoscopas_sp._7,,XO,,24,23,12
+Orthoptera,Acrididae,Pseudoscopas,Pseudoscopas_sp._8,,XO,,24,23,12
+Orthoptera,Acrididae,Psiloscirtus,Psiloscirtus_bolivianus,,XO,,24,23,12
+Orthoptera,Acrididae,Psiloscirtus,Psiloscirtus_olivaceus,,XO,,24,23,12
+Orthoptera,Acrididae,Psiloscirtus,Psiloscirtus_sp._A,,XO,,24,23,12
+Orthoptera,Acrididae,Pycnosarcus,Pycnosarcus_atavus,,XO,,18,17,9
+Orthoptera,Acrididae,Ronderosia,Ronderosia_dubius,gonochorous,XY,X1X1X2X2/X1X2Y,22,21,11
+Orthoptera,Acrididae,Ronderosia,Ronderosia_robustus,gonochorous,XY,X1X1X2X2/X1X2Y,22,21,11
+Orthoptera,Acrididae,Schistocerca,Schistocerca_cancellata,,XO,,24,23,12
+Orthoptera,Acrididae,Schistocerca,Schistocerca_flavofasciata,,XO,,24,23,12
+Orthoptera,Acrididae,Schistocerca,Schistocerca_pallens,,XO,,24,23,12
+Orthoptera,Acrididae,Schistocerca,Schistocerca_paraensis,,XO,,24,23,12
+Orthoptera,Acrididae,Schistocerca,Schistocerca_sp.,,XO,,24,23,12
+Orthoptera,Acrididae,Scotussa,Scotussa_daguerrei,gonochorous,XY,X1X1X2X2/X1X2Y,22,21,11
+Orthoptera,Acrididae,Scotussa,Scotussa_cliens,,XO,,22,21,11
+Orthoptera,Acrididae,Scotussa,Scotussa_daguerrei,,complex XY,X1X1X2X2/X1X2Y,22,21,11
+Orthoptera,Acrididae,Scotussa,Scotussa_delicatula,,XY,,16,16,8
+Orthoptera,Acrididae,Scotussa,Scotussa_impudica,,XO,,24,23,12
+Orthoptera,Acrididae,Scotussa,Scotussa_lemniscata,,XO,,24,23,12
+Orthoptera,Acrididae,Scotussa,Scotussa_liebermanni,,XO,,22,21,11
+Orthoptera,Acrididae,Scotussa,Scotussa_sp._1,,XO,,24,23,12
+Orthoptera,Acrididae,Scyllina,Scyllina_humilis,,XO,,24,23,12
+Orthoptera,Acrididae,Scyllina,Scyllina_signatipennis,,XY,,22,22,11
+Orthoptera,Acrididae,Scyllina,Scyllina_sp.,,XO,,24,23,12
+Orthoptera,Acrididae,Scyllinops,Scyllinops_brunneri,,XO,,24,23,12
+Orthoptera,Acrididae,Scyllinops,Scyllinops_pallida,,XO,,24,23,12
+Orthoptera,Acrididae,Scyllinops,Scyllinops_sp._1,,XO,,24,23,12
+Orthoptera,Acrididae,Scyllinops,Scyllinops_sp._2,,XO,,24,23,12
+Orthoptera,Romaleidae,Securigera,Securigera_acutangula,,XO,,24,23,12
+Orthoptera,Acrididae,Silvitettix,Silvitettix_concolor,,XO,,24,23,12
+Orthoptera,Acrididae,Sinipta,Sinipta_acuta,,XO,,24,23,12
+Orthoptera,Acrididae,Sinipta,Sinipta_dalmani,,XO,,24,23,12
+Orthoptera,Acrididae,Sinipta,Sinipta_maldonadoi,,XO,,24,23,12
+Orthoptera,Acrididae,Sitalces,Sitalces_dorsalis,,XO,,24,23,12
+Orthoptera,Acrididae,Sitalces,Sitalces_infuscatus,,XO,,24,23,12
+Orthoptera,Acrididae,Sitalces,Sitalces_volxemi,,XO,,20,19,10
+Orthoptera,Ommexechidae,Spathalium,Spathalium_audouini,,XY,,22,22,11
+Orthoptera,Acrididae,Staurorhectus,Staurorhectus_longicornis,,XO,,24,23,12
+Orthoptera,Acrididae,Stenopola,Stenopola_bohlsii,,XO,,24,23,12
+Orthoptera,Acrididae,Stenopola,Stenopola_boliviana,,XO,,24,23,12
+Orthoptera,Acrididae,Stenopola,Stenopola_dorsalis,,XO,,24,23,12
+Orthoptera,Acrididae,Stenopola,Stenopola_pallida,,XO,,22,21,11
+Orthoptera,Acrididae,Stenopola,Stenopola_rubrifons,,XO,,24,23,12
+Orthoptera,Acrididae,Stereotettix,Stereotettix_sp._1,,XO,,24,23,12
+Orthoptera,Acrididae,Tetrataenia,Tetrataenia_surinama,,XO,,20,19,10
+Orthoptera,Ommexechidae,Tetrixocephalus,Tetrixocephalus_chilensis,,XO,,24,23,12
+Orthoptera,Ommexechidae,Tetrixocephalus,Tetrixocephalus_micropterus,,XO,,24,23,12
+Orthoptera,Ommexechidae,Tetrixocephalus,Tetrixocephalus_sergioi,,XO,,24,23,12
+Orthoptera,Ommexechidae,Tetrixocephalus,Tetrixocephalus_sp.,,XO,,24,23,12
+Orthoptera,Ommexechidae,Tetrixocephalus,Tetrixocephalus_willemsei,,XY,,22,22,11
+Orthoptera,Acrididae,Trimerotropis,Trimerotropis_ochraceipennis,,XO,,24,23,12
+Orthoptera,Acrididae,Trimerotropis,Trimerotropis_pallidipennis,,XO,,24,23,12
+Orthoptera,Tristiridae,Tropidostethus,Tropidostethus_bicarinatus,,XO,,22,21,11
+Orthoptera,Romaleidae,Xestotrachelus,Xestotrachelus_robustus,,XO,,24,23,12
+Orthoptera,Acrididae,Xiphiola,Xiphiola_borellii,,XO,,24,23,12
+Orthoptera,Romaleidae,Xyleus,Xyleus_attenuatus,,XO,,24,23,12
+Orthoptera,Romaleidae,Xyleus,Xyleus_discoideus,,XO,,24,23,12
+Orthoptera,Romaleidae,Xyleus,Xyleus_gracilis,,XO,,24,23,12
+Orthoptera,Romaleidae,Xyleus,Xyleus_insignis,,XO,,24,23,12
+Orthoptera,Romaleidae,Xyleus,Xyleus_laevipes,,XY,,22,22,11
+Orthoptera,Romaleidae,Xyleus,Xyleus_modestus,,XO,,24,23,12
+Orthoptera,Romaleidae,Xyleus,Xyleus_sp._1,,XO,,24,23,12
+Orthoptera,Romaleidae,Xyleus,Xyleus_sp._2,,XO,,24,23,12
+Orthoptera,Romaleidae,Xyleus,Xyleus_sp._3,,XO,,24,23,12
+Orthoptera,Romaleidae,Zoniopoda,Zoniopoda_hempeli,,XO,,24,23,12
+Orthoptera,Romaleidae,Zoniopoda,Zoniopoda_iheringi,,XY,,22,22,11
+Orthoptera,Romaleidae,Zoniopoda,Zoniopoda_juncorum,,XO,,24,23,12
+Orthoptera,Romaleidae,Zoniopoda,Zoniopoda_omnicolor,,XO,,24,23,12
+Orthoptera,Romaleidae,Zoniopoda,Zoniopoda_similis,,XO,,24,23,12
+Orthoptera,Romaleidae,Zoniopoda,Zoniopoda_tarsata,,XO,,24,23,12
+Orthoptera,Acrididae,Zygoclistron,Zygoclistron_falconinum,,XY,,20,20,10
+Orthoptera,Acrididae,Zygoclistron,Zygoclistron_nasicum,,XY,,20,20,10
+Orthoptera,Acrididae,Zygoclistron,Zygoclistron_trachystictum,,XY,,20,20,10
+Phasmatodea,Phylliidae,Acanthoderus,Acanthoderus_grandis,,XO,,44,43,22
+Phasmatodea,Phylliidae,Acanthoderus,Acanthoderus_inermis,,XO,,44,43,22
+Phasmatodea,Phasmatidae,Acanthoxyla,Acanthoxyla_inermis,,,,36,NA,18
+Phasmatodea,Phasmatidae,Acanthoxyla,Acanthoxyla_fasciata,parthenogenetic,,,NA,NA,
+Phasmatodea,Phasmatidae,Acanthoxyla,Acanthoxyla_geisovii,parthenogenetic,,,38,NA,19
+Phasmatodea,Phasmatidae,Acanthoxyla,Acanthoxyla_huttoni,parthenogenetic,,,NA,NA,
+Phasmatodea,Phasmatidae,Acanthoxyla,Acanthoxyla_intermedia,parthenogenetic,,,38,NA,19
+Phasmatodea,Phasmatidae,Acanthoxyla,Acanthoxyla_prasina,parthenogenetic,,,NA,NA,
+Phasmatodea,Phasmatidae,Acanthoxyla,Acanthoxyla_speciosa,parthenogenetic,,,NA,NA,
+Phasmatodea,Phasmatidae,Acanthoxyla,Acanthoxyla_suteri,parthenogenetic,,,NA,NA,
+Phasmatodea,Phasmidae,Acrophylla,Acrophylla_titan,,XO,,36,35,18
+Phasmatodea,Phasmidae,Aplopus,Aplopus_mayeri,,XO,,36,35,18
+Phasmatodea,Phylliidae,Bacillus,Bacillus_atticus,,,,34,NA,17
+Phasmatodea,Phylliidae,Bacillus,Bacillus_grandii_benazzii,,XO,,34,33,17
+Phasmatodea,Phylliidae,Bacillus,Bacillus_grandii_grandii,,XO,,34,33,17
+Phasmatodea,Phylliidae,Bacillus,Bacillus_lynceorum,parthenogenetic,,,51,NA,26
+Phasmatodea,Phylliidae,Bacillus,Bacillus_rossius-grandii_benazzii,,,,35,NA,18
+Phasmatodea,Phylliidae,Bacillus,Bacillus_rossius-grandii_grandii,,,,35,NA,18
+Phasmatodea,Phylliidae,Bacillus,Bacillus_whitei,parthenogenetic,,,35,NA,18
+Phasmatodea,Phylliidae,Bacillus,Bacillus_libanicus,,XY,,NA,NA,
+Phasmatodea,Phylliidae,Bacillus,Bacillus_rossius,,XO,,36,35,18
+Phasmatodea,Phylliidae,Bacillus,Bacillus_rossius,,,,NA,36,18
+Phasmatodea,Phasmidae,Baculum,Baculum_artemis,,,,72,72,36
+Phasmatodea,Phasmidae,Bostra,Bostra_sp.,,XO,,36,35,18
+Phasmatodea,Phasmidae,Carausius,Carausius_morosus,parthenogenetic,,,64,NA,32
+Phasmatodea,Phasmidae,Carausius,Carausius_furcillatus,,,,NA,66,33
+Phasmatodea,Phasmidae,Carausius,Carausius_furcillatus,,,,NA,87,44
+Phasmatodea,Phasmidae,Carausius,Carausius_juvenilis,,XO,,42,41,21
+Phasmatodea,Phasmidae,Carausius,Carausius_morosus,,,,NA,65,33
+Phasmatodea,Phasmidae,Carausius,Carausius_rotundato-lobatus,,XO,,22,21,11
+Phasmatodea,Phasmidae,Carausius,Carausius_sp.,,XO,,42,41,21
+Phasmatodea,Phasmidae,Carausius,Carausius_theiseni,,,,NA,41,21
+Phasmatodea,Phasmidae,Carnacia,Carnacia_telesphorus,,XO,,44,43,22
+Phasmatodea,Phasmatidae,Clitarchus,Clitarchus_hookeri,,,,36,NA,18
+Phasmatodea,Phasmidae,Clitumnus,Clitumnus_extradentatus,,XO,,38,37,19
+Phasmatodea,Phasmidae,Clonistria,Clonistria_exornata,,XO,,34,33,17
+Phasmatodea,Phylliidae,Clonopsis,Clonopsis_sp._1,,XO,,36,35,18
+Phasmatodea,Phylliidae,Clonopsis,Clonopsis_sp._2,,,,72,NA,36
+Phasmatodea,Phylliidae,Clonopsis,Clonopsis_androgenes,,,,44,NA,22
+Phasmatodea,Phylliidae,Clonopsis,Clonopsis_felicitatis,,XO,,36,35,18
+Phasmatodea,Phylliidae,Clonopsis,Clonopsis_gallica,parthenogenetic,,,54,NA,27
+Phasmatodea,Phylliidae,Clonopsis,Clonopsis_maroccana,,XO,,22,21,11
+Phasmatodea,Phylliidae,Clonopsis,Clonopsis_soumiae,parthenogenetic,,,72,NA,36
+Phasmatodea,Phylliidae,Clonopsis,Clonopsis_gallica,,,,56,56,28
+Phasmatodea,Phasmidae,Ctenomorpha,Ctenomorpha_chronus,,XY,,30,30,15
+Phasmatodea,Phasmidae,Ctenomorpha,Ctenomorpha_chronus,,XY,,32,32,16
+Phasmatodea,Phasmidae,Ctenomorphodes,Ctenomorphodes_sp.2,,,,40,NA,20
+Phasmatodea,Phasmidae,Ctenomorphodes,Ctenomorphodes_tessulatus,,XO,,38,37,19
+Phasmatodea,Phasmidae,Didymuria,Didymuria_violescens,,XY,,27,26,14
+Phasmatodea,Phasmidae,Didymuria,Didymuria_violescens,,XY,,29,28,15
+Phasmatodea,Phasmidae,Didymuria,Didymuria_violescens,,XY,,29,28,15
+Phasmatodea,Phasmidae,Didymuria,Didymuria_violescens,,XY,,31,30,16
+Phasmatodea,Phasmidae,Didymuria,Didymuria_violescens,,XO,,32,31,16
+Phasmatodea,Phasmidae,Didymuria,Didymuria_violescens,,XY,,33,32,17
+Phasmatodea,Phasmidae,Didymuria,Didymuria_violescens,,XO|XY,,33,33,17
+Phasmatodea,Phasmidae,Didymuria,Didymuria_violescens,,XO,,36,35,18
+Phasmatodea,Phasmidae,Didymuria,Didymuria_violescens,,XO,,38,37,19
+Phasmatodea,Phasmidae,Didymuria,Didymuria_violescens,,XO,,40,39,20
+Phasmatodea,Phasmidae,Didymuria,Didymuria_violescens,,XO,,40,39,20
+Phasmatodea,Phasmidae,Dubreuilia,Dubreuilia_lineata,,XO,,26,25,13
+Phasmatodea,Phasmidae,Dyme,Dyme_krugiana,,XO,,50,49,25
+Phasmatodea,Phylliidae,Epibacillus,Epibacillus_lobipes,,,,NA,36,18
+Phasmatodea,Phasmidae,Extatosoma,Extatosoma_tiaratum,,XO,,36,35,18
+Phasmatodea,Phasmidae,Extatosoma,Extatosoma_tiaratum,,XO,,38,37,19
+Phasmatodea,Phasmidae,Genus7,Genus7_longiceps,,,,42,NA,21
+Phasmatodea,Phasmidae,Genus8,Genus8_sp1,,XO,,46,45,23
+Phasmatodea,Phylliidae,Isagoras,Isagoras_schraderi,,XY,,34,34,17
+Phasmatodea,Phylliidae,Isagoras,Isagoras_sp.,,XO,,48,47,24
+Phasmatodea,Phylliidae,Isagoras,Isagoras_subaquilus,,XO,,28,27,14
+Phasmatodea,Phasmidae,Lampionus,Lampionus_sp.?,,XO,,24,23,12
+Phasmatodea,Phasmidae,Lampionus,Lampionus_sp.I,,XO,,30,29,15
+Phasmatodea,Phasmidae,Lampionus,Lampionus_sp.III,,XO,,36,35,18
+Phasmatodea,Phasmidae,Lampionus,Lampionus_sp.V,,XO,,36,35,18
+Phasmatodea,Phylliidae,Leptynia,Leptynia_attenuata,,XY,,36,36,18
+Phasmatodea,Phylliidae,Leptynia,Leptynia_caprai,,XO,,40,39,20
+Phasmatodea,Phylliidae,Leptynia,Leptynia_montana,,XO,,38,37,19
+Phasmatodea,Phylliidae,Leptynia,Leptynia_sp.,,XO,,40,39,20
+Phasmatodea,Phylliidae,Leptynia,Leptynia_attenuata,,XO,,36,35,18
+Phasmatodea,Phasmatidae,Medauroidea,Medauroidea_extradentata,parthenogenetic,,,38,NA,19
+Phasmatodea,Phasmatidae,Medauroidea,Medauroidea_extradentata,gonochorous,XO,,NA,37,19
+Phasmatodea,Phasmidae,Menexenus,Menexenus_semiarmatus,,XO,,46,45,23
+Phasmatodea,Phasmidae,Oncotophasma,Oncotophasma_sp.,,XO,,42,41,21
+Phasmatodea,Phasmidae,Orxines,Orxines_macklotti,,XO,,38,37,19
+Phasmatodea,Phasmidae,Pachymorpha,Pachymorpha_simplicipes,,,,34,NA,17
+Phasmatodea,Phasmidae,Pachymorpha,Pachymorpha_sp.3,,XO,,30,29,15
+Phasmatodea,Phasmidae,Pachymorpha,Pachymorpha_squalida,,XO,,34,33,17
+Phasmatodea,Phasmidae,Parasipyloidea,Parasipyloidea_annulatus,,XO,,30,29,15
+Phasmatodea,Phasmidae,Parasipyloidea,Parasipyloidea_cercata,,XO,,40,39,20
+Phasmatodea,Phasmidae,Parasipyloidea,Parasipyloidea_granulosa,,XO,,36,35,18
+Phasmatodea,Phasmidae,Parasipyloidea,Parasipyloidea_sp2,,XO,,40,39,20
+Phasmatodea,Phasmidae,Parasipyloidea,Parasipyloidea_sp3,,XO,,28,27,14
+Phasmatodea,Phasmidae,Parasipyloidea,Parasipyloidea_sp4,,XO,,39,38,20
+Phasmatodea,Phasmidae,Parasipyloidea,Parasipyloidea_sp5,,XO,,39,38,20
+Phasmatodea,Phasmidae,Parasosibia,Parasosibia_parva,,XO,,54,53,27
+Phasmatodea,Pseudophasmatidae,Peruphasma,Peruphasma_schultei,gonochorous,XO,,44,43,22
+Phasmatodea,Diapheromeridae,Phaenopharos,Phaenopharos_khaoyaiensis,parthenogenetic,,,70,,35
+Phasmatodea,Phylliidae,Phalces,Phalces_longiscaphus,,XO,,36,35,18
+Phasmatodea,Phasmidae,Phibalosoma,Phibalosoma_phyllinum,,XO,,42,41,21
+Phasmatodea,Phasmidae,Phobaeticus,Phobaeticus_sinetyi,,XO,,52,51,26
+Phasmatodea,Phylliidae,Phyllium,Phyllium_bioculatum,,XO,,34,33,17
+Phasmatodea,Phylliidae,Pijnackeria,Pijnackeria_hispanica,,XO,,38,37,19
+Phasmatodea,Phylliidae,Pijnackeria,Pijnackeria_hispanica,,,,57,NA,29
+Phasmatodea,Phylliidae,Pijnackeria,Pijnackeria_hispanica,,,,76,NA,38
+Phasmatodea,Phylliidae,Pijnackeria,Pijnackeria_barbarae,,XO,,38,37,19
+Phasmatodea,Phylliidae,Pijnackeria,Pijnackeria_lelongi,,XO,,38,37,19
+Phasmatodea,Phylliidae,Pijnackeria,Pijnackeria_lucianae,,XO,,38,37,19
+Phasmatodea,Phylliidae,Pijnackeria,Pijnackeria_masettii,,XO,,57,NA,29
+Phasmatodea,Phylliidae,Pijnackeria,Pijnackeria_originis,,XO,,38,37,19
+Phasmatodea,Phylliidae,Pijnackeria,Pijnackeria_hispanica,,,,54,54,27
+Phasmatodea,Phasmidae,Podacanthus,Podacanthus_typhon,,XY,,28,28,14
+Phasmatodea,Phasmidae,Podacanthus,Podacanthus_viridiroseus,,XO,,36,35,18
+Phasmatodea,Phasmidae,Podacanthus,Podacanthus_wilkinsoni,,XO,,36,35,18
+Phasmatodea,Phylliidae,Prisopus,Prisopus_ariadne,,XY,,28,28,14
+Phasmatodea,Phylliidae,Prisopus,Prisopus_berosus,,XO,,50,49,25
+Phasmatodea,Phasmidae,Pseudobacteria,Pseudobacteria_sp.,,XO,,48,46,24
+Phasmatodea,Phylliidae,Pseudophasma,Pseudophasma_menius,,XO,,24,23,12
+Phasmatodea,Phasmidae,Sipyloidea,Sipyloidea_panaeticus,,XO,,22,21,11
+Phasmatodea,Phasmidae,Sipyloidea,Sipyloidea_sipylus,,,,80,80,40
+Phasmatodea,Phasmidae,Sipyloidea,Sipyloidea_sp6,,,,38,NA,19
+Phasmatodea,Heteropterygidae,Sungaya,Sungaya_inexpectata,parthenogenetic,,,44,NA,22
+Phasmatodea,Timematidae,Timema,Timema_poppensis,gonochorous,,,24,NA,12
+Phasmatodea,Timematidae,Timema,Timema_shepardi,parthenogenetic,,,24,NA,12
+Phasmatodea,Phasmidae,Tropiderus,Tropiderus_childrenii,,XO,,34,33,17
+Phasmatodea,Phasmidae,Vetilia,Vetilia_enceladus,,XY,,38,38,19
+Plecoptera,Perlidae,Calineuria,Calineuria_jezoensis,,XO,,26,25,13
+Plecoptera,Perlodidae,Isogenus,Isogenus_alpinus,,,,NA,24,12
+Plecoptera,Perlodidae,Isogenus,Isogenus_fontium,,complex XO,X1X1X2X2/X1X2OO,NA,26,13
+Plecoptera,Perlodidae,Isogenus,Isogenus_imhoffi,,,,NA,26,13
+Plecoptera,Perlodidae,Isoperla,Isoperla_grammatica,,complex XO,X1X1X2X2/X1X2OO,NA,26,13
+Plecoptera,Perlodidae,Isoperla,Isoperla_rivulorum,,complex XO,X1X1X2X2/X1X2OO,NA,26,13
+Plecoptera,Perlidae,Perla,Perla_marginata,,complex XO,X1X1X2X2/X1X2OO,24,22,12
+Plecoptera,Perlidae,Perla,Perla_abdominalis,,complex XO,X1X1X2X2/X1X2OO,NA,26,13
+Plecoptera,Perlidae,Perla,Perla_baetica,,complex XO,X1X1X2X2/X1X2OO,NA,26,13
+Plecoptera,Perlidae,Perla,Perla_bipunctata,,XO,,22,21,11
+Plecoptera,Perlidae,Perla,Perla_cephalotes,,complex XO,X1X1X2X2/X1X2OO,NA,26,13
+Plecoptera,Perlidae,Perla,Perla_immarginata,,XY,,10,10,5
+Plecoptera,Perlidae,Perla,Perla_maxima,,XO,,20,19,10
+Plecoptera,Perlodidae,Perlodes,Perlodes_intricala,,,,NA,33,17
+Plecoptera,Perlodidae,Perlodes,Perlodes_jurassica,,,,NA,31,16
+Plecoptera,Perlodidae,Perlodes,Perlodes_microcephala,,complex XO,,NA,27,14

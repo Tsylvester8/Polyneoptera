@@ -1,0 +1,226 @@
+#cannot perform simulations: Expectations are based on heuristic computations rather than simulations
+#Nodes with GAIN events with expectation above 0.5
+Cryptocercus_primarius: 3
+Cryptocercus_relictus: 2
+N8: 2
+N9: 1
+Blatta_orientalis: 7
+Periplaneta_americana: 1
+N13: 2
+Pelmatosilpha_sp: 3
+Periplaneta_japonica: 3
+Lamproblatta_albipalpus: 2
+N18: 1
+N21: 2
+Byrsotria_fumigata: 1
+N27: 1
+Eublaberus_distanti: 6
+Gromphadorhina_portentosa: 5
+N28: 2
+Lanxoblatta_emarginata: 4
+N29: 1
+Pycnoscelus_surinamensis: 1
+Diploptera_punctata: 1
+Margattea_sp: 2
+Supella_longipalpa: 3
+N38: 3
+Blattella_bisignata: 2
+Blattella_germanica: 2
+Loboptera_decipiens: 3
+N40: 2
+N41: 1
+Symplocodes_sp: 3
+N42: 3
+Total number of gain events: 75
+#+++++++++++++++++++++++++++++
+
+#Nodes with LOSS events with expectation above 0.5
+Cryptocercus_punctulatus: 6
+N11: 1
+Periplaneta_brunnea: 2
+N12: 3
+Deropeltis_erythrocephala: 4
+Eurycotis_floridana: 2
+N17: 6
+N23: 1
+N24: 2
+Archimandrita_tessellata: 1
+N25: 1
+N26: 3
+Blaberus_discoidalis: 1
+Blaberus_giganteus: 2
+Eublaberus_posticus: 5
+Phoetalia_sp: 2
+Epilampra_sp: 4
+Nauphoeta_cinerea: 6
+Macropanesthia_rhinoceros: 6
+N30: 1
+Panchlora_nivea: 5
+N33: 7
+Galiblatta_sp: 2
+Panchlora_viridis: 4
+Ectobius_pallidus: 2
+Blattella_sauteri: 1
+Hemithyrsocera_sp: 4
+Total number of loss events: 84
+#+++++++++++++++++++++++++++++
+
+#Nodes with duplication events with expectation above 0.5
+Cryptocercus_punctulatus: 4
+N8: 1
+Deropeltis_erythrocephala: 1
+N13: 1
+Periplaneta_japonica: 1
+N17: 4
+Blaberus_giganteus: 1
+Macropanesthia_rhinoceros: 1
+Margattea_sp: 1
+Ectobius_pallidus: 1
+Blattella_sauteri: 1
+Loboptera_decipiens: 1
+N40: 1
+Symploce_sp: 1
+Total number of duplication events: 20
+#+++++++++++++++++++++++++++++
+
+#Nodes with demi-duplication events with expectation above 0.5
+Total number of demi-dulications events: 0
+#+++++++++++++++++++++++++++++
+
+#EVENTS NOT ACCOUNTED FOR IN THE SIMULATIONS: 
+NONE
+#+++++++++++++++++++++++++++++
+
+#ALL EVENTS EXPECTATIONS PER NODE
+NODE	GAIN	LOSS	DUPLICATION	DEMI-DUPLICATION
+N2	0	0	0	0
+N3	0	0	0	0
+N4	0	0	0	0
+Cryptocercus_primarius	3	0	0	0
+Cryptocercus_relictus	2	0	0	0
+Cryptocercus_punctulatus	0	6	4	0
+N5	0	0	0	0
+N6	0	0	0	0
+N7	0	0	0	0
+N8	2	0	1	0
+N9	1	0	0	0
+Blatta_orientalis	7	0	0	0
+N10	0	0	0	0
+N11	0	1	0	0
+Periplaneta_americana	1	0	0	0
+Periplaneta_brunnea	0	2	0	0
+N12	0	3	0	0
+Periplaneta_australasiae	0	0	0	0
+Periplaneta_fuliginosa	0	0	0	0
+Deropeltis_erythrocephala	0	4	1	0
+N13	2	0	1	0
+Eurycotis_floridana	0	2	0	0
+Pelmatosilpha_sp	3	0	0	0
+Periplaneta_japonica	3	0	1	0
+Lamproblatta_albipalpus	2	0	0	0
+N14	0	0	0	0
+N15	0	0	0	0
+N16	0	0	0	0
+N17	0	6	4	0
+N18	1	0	0	0
+N19	0	0	0	0
+N20	0	0	0	0
+N21	2	0	0	0
+N22	0	0	0	0
+N23	0	1	0	0
+N24	0	2	0	0
+Archimandrita_tessellata	0	1	0	0
+N25	0	1	0	0
+N26	0	3	0	0
+Blaberus_discoidalis	0	1	0	0
+Blaberus_giganteus	0	2	1	0
+Byrsotria_fumigata	1	0	0	0
+N27	1	0	0	0
+Eublaberus_distanti	6	0	0	0
+Eublaberus_posticus	0	5	0	0
+Gromphadorhina_portentosa	5	0	0	0
+N28	2	0	0	0
+Lanxoblatta_emarginata	4	0	0	0
+Phoetalia_sp	0	2	0	0
+Epilampra_sp	0	4	0	0
+Nauphoeta_cinerea	0	6	0	0
+N29	1	0	0	0
+Macropanesthia_rhinoceros	0	6	1	0
+Pycnoscelus_surinamensis	1	0	0	0
+N30	0	1	0	0
+N31	0	0	0	0
+N32	0	0	0	0
+Diploptera_punctata	1	0	0	0
+Panchlora_nivea	0	5	0	0
+N33	0	7	0	0
+Galiblatta_sp	0	2	0	0
+Rhabdoblatta_sp	0	0	0	0
+Panchlora_viridis	0	4	0	0
+N34	0	0	0	0
+Margattea_sp	2	0	1	0
+Supella_longipalpa	3	0	0	0
+Ectobius_pallidus	0	2	1	0
+N35	0	0	0	0
+N36	0	0	0	0
+N37	0	0	0	0
+N38	3	0	0	0
+Blattella_bisignata	2	0	0	0
+Blattella_germanica	2	0	0	0
+Blattella_sauteri	0	1	1	0
+Loboptera_decipiens	3	0	1	0
+N39	0	0	0	0
+N40	2	0	1	0
+N41	1	0	0	0
+Hemithyrsocera_sp	0	4	0	0
+Symplocodes_sp	3	0	0	0
+N42	3	0	0	0
+Lobopterella_dimidiatipes	0	0	0	0
+Xestoblatta_sp	0	0	0	0
+Symploce_sp	0	0	1	0
+#+++++++++++++++++++++++++++++
+
+#Expected number of events from root to leaf
+LEAF	GAIN	LOSS	DUPLICATION	DEMI-DUPLICATION
+Cryptocercus_primarius	3	0	0	0
+Cryptocercus_relictus	2	0	0	0
+Cryptocercus_punctulatus	0	6	4	0
+Blatta_orientalis	10	0	1	0
+Periplaneta_americana	4	1	1	0
+Periplaneta_brunnea	3	3	1	0
+Periplaneta_australasiae	3	3	1	0
+Periplaneta_fuliginosa	3	3	1	0
+Deropeltis_erythrocephala	2	4	2	0
+Eurycotis_floridana	2	2	1	0
+Pelmatosilpha_sp	5	0	1	0
+Periplaneta_japonica	3	0	1	0
+Lamproblatta_albipalpus	2	0	0	0
+Archimandrita_tessellata	3	10	4	0
+Blaberus_discoidalis	3	14	4	0
+Blaberus_giganteus	3	15	5	0
+Byrsotria_fumigata	4	10	4	0
+Eublaberus_distanti	10	7	4	0
+Eublaberus_posticus	4	12	4	0
+Gromphadorhina_portentosa	8	6	4	0
+Lanxoblatta_emarginata	9	6	4	0
+Phoetalia_sp	5	8	4	0
+Epilampra_sp	1	10	4	0
+Nauphoeta_cinerea	1	12	4	0
+Macropanesthia_rhinoceros	2	12	5	0
+Pycnoscelus_surinamensis	3	6	4	0
+Diploptera_punctata	1	7	4	0
+Panchlora_nivea	0	12	4	0
+Galiblatta_sp	0	16	4	0
+Rhabdoblatta_sp	0	14	4	0
+Panchlora_viridis	0	11	4	0
+Margattea_sp	2	0	1	0
+Supella_longipalpa	3	0	0	0
+Ectobius_pallidus	0	2	1	0
+Blattella_bisignata	5	0	0	0
+Blattella_germanica	5	0	0	0
+Blattella_sauteri	0	1	1	0
+Loboptera_decipiens	3	0	1	0
+Hemithyrsocera_sp	3	4	1	0
+Symplocodes_sp	6	0	1	0
+Lobopterella_dimidiatipes	5	0	1	0
+Xestoblatta_sp	5	0	1	0
+Symploce_sp	0	0	1	0

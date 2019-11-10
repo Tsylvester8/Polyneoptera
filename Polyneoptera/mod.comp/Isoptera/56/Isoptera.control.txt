@@ -1,0 +1,11 @@
+_mainType Run_Fix_Param
+_dataFile ../mod.comp/Isoptera/56/Isoptera.count.txt
+_treeFile ../mod.comp/Isoptera/56/Isoptera.tre
+_outDir ../mod.comp/Isoptera/56/results
+_maxChrNum 51
+_minChrNum 13
+_branchMul 1
+_simulationsNum 10000
+_gainConstR 0.0181028882402804
+_lossConstR 0.021244573095503
+_duplConstR 0.00116664209394026

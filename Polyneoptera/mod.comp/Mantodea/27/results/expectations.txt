@@ -1,0 +1,226 @@
+#Nodes with GAIN events with expectation above 0.5
+N4: 0.728064
+Parathespis_humbertiana: 0.68391
+Choeradodis_rhombicollis: 0.625446
+Miomantis_sp: 1.04756
+Didymocorypha_lanceolata: 1.06367
+N34: 0.62996
+Kongobatha_sp: 1.06037
+N36: 0.625801
+Iris_sp: 0.681391
+Bolbe_pallida: 0.693099
+Cliomantis_cornuta: 0.739303
+Schizocephala_bicornis: 0.678717
+Humbertiella_similis: 0.550292
+N39: 0.57788
+Pseudomiopteryx_infuscata: 0.722496
+Total number of gain events: 22.8508
+#+++++++++++++++++++++++++++++
+
+#Nodes with LOSS events with expectation above 0.5
+N2: 0.51023
+N3: 0.765689
+N4: 3.33695
+N5: 1.62463
+Liturgusa_cursor: 2.67584
+Liturgusa_maya: 2.32456
+N6: 0.520376
+Antemna_rapax: 0.558718
+Archimantis_sobrina: 0.51596
+Sphodropoda_sp: 0.51596
+Orthodera_sp: 1.60591
+Vates_sp: 0.828631
+Parathespis_humbertiana: 1.74753
+N23: 0.527077
+Cheddikulama_straminea: 0.57383
+Harpagomantis_tricolor: 1.39075
+N25: 0.532373
+Mantis_religiosa: 0.975913
+Choeradodis_rhombicollis: 2.75544
+Miomantis_sp: 1.43063
+N27: 0.77309
+Creobroter_laevicollis: 1.16862
+Hestiasula_sp: 0.533752
+Didymocorypha_lanceolata: 2.73723
+N31: 0.613957
+N32: 0.838913
+N34: 0.714065
+Dystacta_alticeps: 0.78611
+Deiphobe_sp: 2.77178
+N35: 0.516663
+Ligaria_sp: 1.56802
+N36: 1.98635
+Callimantis_antillarum: 1.46576
+Iris_sp: 0.635027
+Bolbe_pallida: 3.53534
+Cliomantis_cornuta: 2.92934
+Schizocephala_bicornis: 4.3283
+Humbertiella_similis: 4.92511
+N39: 2.16165
+N40: 0.934162
+Oligonyx_sp: 3.59844
+Thesprotia_graminis: 3.59844
+Pseudomiopteryx_infuscata: 3.57788
+Total number of loss events: 79.1637
+#+++++++++++++++++++++++++++++
+
+#Nodes with duplication events with expectation above 0.5
+N4: 0.841337
+N5: 0.688425
+Antemna_rapax: 0.746244
+Archimantis_sobrina: 0.710908
+Sphodropoda_sp: 0.710908
+Orthodera_sp: 0.785239
+Vates_sp: 0.785398
+Parathespis_humbertiana: 0.942554
+Cheddikulama_straminea: 0.566291
+Harpagomantis_tricolor: 0.566282
+Mantis_religiosa: 0.833105
+Choeradodis_rhombicollis: 1.00473
+Creobroter_laevicollis: 0.744609
+N34: 0.797194
+Deiphobe_sp: 0.686641
+N36: 0.745979
+Bolbe_pallida: 0.640175
+Cliomantis_cornuta: 0.644089
+Schizocephala_bicornis: 0.85804
+Humbertiella_similis: 0.937483
+N39: 0.680218
+Total number of duplication events: 26.2209
+#+++++++++++++++++++++++++++++
+
+#Nodes with demi-duplication events with expectation above 0.5
+Total number of demi-dulications events: 0
+#+++++++++++++++++++++++++++++
+
+#EVENTS NOT ACCOUNTED FOR IN THE SIMULATIONS: 
+NONE
+#+++++++++++++++++++++++++++++
+
+#ALL EVENTS EXPECTATIONS PER NODE
+NODE	GAIN	LOSS	DUPLICATION	DEMI-DUPLICATION
+N2	0.233391	0.51023	0.0481985	0
+N3	0.187916	0.765689	0.118598	0
+N4	0.728064	3.33695	0.841337	0
+Acanthops_falcata	2.47065e-008	5.86684e-007	0	0
+Pseudacanthops_sp	2.47065e-008	5.86684e-007	0	0
+N5	0.39489	1.62463	0.688425	0
+Liturgusa_cursor	0.242735	2.67584	0.34453	0
+Liturgusa_maya	0.363261	2.32456	0.0955896	0
+N6	0.395511	0.520376	0.107937	0
+N7	0.135856	0.201261	0.00344483	0
+N8	0.170327	0.197784	0.0149806	0
+N9	0.233723	0.253628	0.00483298	0
+N10	0.184992	0.201465	0.00189599	0
+N11	0.0333268	0.109427	0.00361091	0
+N12	0.105505	0.298121	0.0640509	0
+N13	0.00405445	0.0393664	0.00363961	0
+N14	0.0420194	0.250514	0.0748845	0
+N15	0.0530962	0.144611	0.106552	0
+Antemna_rapax	0.30038	0.558718	0.746244	0
+N16	0.0127903	0.0294764	0.0353344	0
+Archimantis_sobrina	0.282798	0.51596	0.710908	0
+Sphodropoda_sp	0.282798	0.51596	0.710908	0
+N17	0.085715	0.294933	0.335205	0
+N18	0.0640457	0.135866	0.33159	0
+Polyspilota_aeruginosa	0.0879051	0.122358	0.186001	0
+N19	0.0159816	0.0304699	0.0911198	0
+Tenodera_aridifolia	0.0443352	0.0643543	0.0948807	0
+Tenodera_australasiae	0.0443352	0.0643543	0.0948807	0
+N20	0.0196411	0.0329297	0.0663328	0
+Sphodromantis_sp	0.191929	0.290678	0.451267	0
+Tenodera_superstitiosa	0.191929	0.290678	0.451267	0
+N21	0.0493981	0.246857	0.142533	0
+Orthodera_sp	0.370093	1.60591	0.785239	0
+Vates_sp	0.393722	0.828631	0.785398	0
+Parathespis_humbertiana	0.68391	1.74753	0.942554	0
+N22	0.0714518	0.302294	0.0713366	0
+N23	0.139573	0.527077	0.357911	0
+Cheddikulama_straminea	0.366101	0.57383	0.566291	0
+Harpagomantis_tricolor	0.292131	1.39075	0.566282	0
+N24	0.0638796	0.17225	0.0912728	0
+N25	0.210048	0.532373	0.44789	0
+Hierodula_patellifera	0.159779	0.330905	0.384984	0
+Statilia_maculata	0.159779	0.330905	0.384984	0
+Mantis_religiosa	0.40984	0.975913	0.833105	0
+N26	0.0106848	0.0110078	0.00197926	0
+Choeradodis_rhombicollis	0.625446	2.75544	1.00473	0
+Miomantis_sp	1.04756	1.43063	0.101774	0
+N27	0.309389	0.77309	0.256027	0
+Creobroter_laevicollis	0.473994	1.16862	0.744609	0
+N28	0.186179	0.47893	0.27349	0
+N29	0.090709	0.233855	0.229758	0
+Empusa_sp	0.109362	0.224441	0.240948	0
+Gongylus_sp	0.109362	0.224441	0.240948	0
+Hestiasula_sp	0.262693	0.533752	0.470708	0
+Didymocorypha_lanceolata	1.06367	2.73723	0.309394	0
+N30	0.0219127	0.0646663	0.00223733	0
+N31	0.154149	0.613957	0.0310888	0
+N32	0.383857	0.838913	0.170123	0
+N33	0.0137567	0.0536803	0.0178675	0
+N34	0.62996	0.714065	0.797194	0
+Antistia_sp	0.220342	0.00347375	0.00512846	0
+Dystacta_alticeps	0.00325574	0.78611	0.00512846	0
+Deiphobe_sp	0.349647	2.77178	0.686641	0
+N35	0.44441	0.516663	0.447839	0
+Kongobatha_sp	1.06037	0.353565	0.372522	0
+Ligaria_sp	0.0420117	1.56802	0.371395	0
+N36	0.625801	1.98635	0.745979	0
+Callimantis_antillarum	0.305877	1.46576	0.0112537	0
+Iris_sp	0.681391	0.635027	0.305986	0
+N37	0.0875889	0.168033	0.131672	0
+N38	0.189418	0.497091	0.225839	0
+Bolbe_pallida	0.693099	3.53534	0.640175	0
+Cliomantis_cornuta	0.739303	2.92934	0.644089	0
+Schizocephala_bicornis	0.678717	4.3283	0.85804	0
+Humbertiella_similis	0.550292	4.92511	0.937483	0
+N39	0.57788	2.16165	0.680218	0
+N40	0.197885	0.934162	0.256215	0
+Oligonyx_sp	0.342688	3.59844	0.27908	0
+Thesprotia_graminis	0.342688	3.59844	0.27908	0
+Pseudomiopteryx_infuscata	0.722496	3.57788	0.255991	0
+#+++++++++++++++++++++++++++++
+
+#Expected number of events from root to leaf
+LEAF	GAIN	LOSS	DUPLICATION	DEMI-DUPLICATION
+Acanthops_falcata	1.14937	4.61287	1.00813	0
+Pseudacanthops_sp	1.14937	4.61287	1.00813	0
+Liturgusa_cursor	1.05893	5.57639	1.19975	0
+Liturgusa_maya	1.17946	5.22511	0.950811	0
+Antemna_rapax	1.89218	3.2855	1.18027	0
+Archimantis_sobrina	1.88739	3.27222	1.18027	0
+Sphodropoda_sp	1.88739	3.27222	1.18027	0
+Polyspilota_aeruginosa	1.77637	3.13533	1.18027	0
+Tenodera_aridifolia	1.74878	3.10779	1.18027	0
+Tenodera_australasiae	1.74878	3.10779	1.18027	0
+Sphodromantis_sp	1.83599	3.20071	1.18028	0
+Tenodera_superstitiosa	1.83599	3.20071	1.18028	0
+Orthodera_sp	1.91618	4.18443	1.18036	0
+Vates_sp	1.93981	3.40715	1.18052	0
+Parathespis_humbertiana	2.17654	4.03983	1.19151	0
+Cheddikulama_straminea	1.96425	3.39737	1.18044	0
+Harpagomantis_tricolor	1.89028	4.21429	1.18043	0
+Hierodula_patellifera	1.89229	3.33199	1.18038	0
+Statilia_maculata	1.89229	3.33199	1.18038	0
+Mantis_religiosa	1.9323	3.44463	1.18062	0
+Choeradodis_rhombicollis	1.98993	4.6512	1.188	0
+Miomantis_sp	2.41205	3.32638	0.285043	0
+Creobroter_laevicollis	1.95219	3.62498	1.18003	0
+Empusa_sp	1.86445	3.39359	1.17962	0
+Gongylus_sp	1.86445	3.39359	1.17962	0
+Hestiasula_sp	1.92707	3.46905	1.17962	0
+Didymocorypha_lanceolata	1.99876	4.16688	0.483955	0
+Antistia_sp	2.18874	3.52062	1.18322	0
+Dystacta_alticeps	1.97165	4.30326	1.18322	0
+Deiphobe_sp	1.68808	5.57486	1.06754	0
+Kongobatha_sp	2.82945	3.61963	1.18339	0
+Ligaria_sp	1.8111	4.83409	1.18226	0
+Callimantis_antillarum	1.8725	5.3626	0.950139	0
+Iris_sp	2.24801	4.53187	1.24487	0
+Bolbe_pallida	1.75678	5.49699	1.1595	0
+Cliomantis_cornuta	1.80298	4.89099	1.16342	0
+Schizocephala_bicornis	1.55298	5.79287	1.15153	0
+Humbertiella_similis	1.17919	5.95572	1.09362	0
+Oligonyx_sp	1.11845	6.69425	1.21551	0
+Thesprotia_graminis	1.11845	6.69425	1.21551	0
+Pseudomiopteryx_infuscata	1.30038	5.73952	0.936209	0
