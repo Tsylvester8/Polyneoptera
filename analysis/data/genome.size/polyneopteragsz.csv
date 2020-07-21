@@ -1,0 +1,308 @@
+Phylum,Sub-Phylum,Class,Order,Family,Genus,Species,C-value,Mbp,Chrom.num,Method,FromGsizeDataBase,AlreadyInGsizeDataBase
+Arthropoda,Hexapoda,Insecta,Blattaria,Blaberidae,Blaberus,Blaberus fuscus,3.36,3286.08,,FD,Y,Y
+Arthropoda,Hexapoda,Insecta,Blattaria,Blaberidae,Blaptica,Blaptica dubia,4.54,4440.12,,FIA,Y,Y
+Arthropoda,Hexapoda,Insecta,Blattaria,Blaberidae,Nauphoeta,Nauphoeta cinerea,5.15,5036.70,,FIA,Y,Y
+Arthropoda,Hexapoda,Insecta,Blattaria,Blatellidae,Blatella,Blatella nipponica,2.13,2083.14,,FIA,Y,Y
+Arthropoda,Hexapoda,Insecta,Blattaria,Blattellidae,Blattella,Blattella germanica,2.00,1956.00,,FD,Y,Y
+Arthropoda,Hexapoda,Insecta,Blattaria,Blattidae,Blatta,Blatta orientalis,3.03,2963.34,,FD,Y,Y
+Arthropoda,Hexapoda,Insecta,Blattaria,Blattidae,Periplaneta,Periplaneta americana,2.72,2660.16,,FD,Y,Y
+Arthropoda,Hexapoda,Insecta,Blattaria,Cryptocercidae,Cryptocercus,Cryptocercus kyebangensis,1.16,1134.48,,FIA,Y,Y
+Arthropoda,Hexapoda,Insecta,Blattaria,Cryptocercidae,Cryptocercus,Cryptocercus punctulatus,1.32,1290.96,,FIA,Y,Y
+Arthropoda,Hexapoda,Insecta,Blattodea,Blaberidae,Panchlora,Panchlora nivea,1.52,1486.56,,FCM,Y,Y
+Arthropoda,Hexapoda,Insecta,Blattodea,Blattellidae,Parcoblatta,Parcoblatta pensylvanica,1.05,1026.90,,FCM,Y,Y
+Arthropoda,Hexapoda,Insecta,Blattodea,Blattidae,Periplaneta,Periplaneta americana,3.41,3334.98,,FCM,Y,Y
+Arthropoda,Hexapoda,Insecta,Dermaptera,Labiduridae,Labidura,Labidura riparia,0.53,518.34,,FCM,Y,Y
+Arthropoda,Hexapoda,Insecta,Embiidina,Oligotomidae,Oligotoma,Oligotoma saundersii,2.66,2601.48,,FCM,Y,Y
+Arthropoda,Hexapoda,Insecta,Isoptera,Hodotermitidae,Hodotermes,Hodotermes mossambicus,1.00,978.00,,FIA,Y,Y
+Arthropoda,Hexapoda,Insecta,Isoptera,Kalotermitidae,Glyptotermes,Glyptotermes fuscus,1.56,1525.68,,FIA,Y,Y
+Arthropoda,Hexapoda,Insecta,Isoptera,Kalotermitidae,Glyptotermes,Glyptotermes nakajimai,0.89,870.42,,FIA,Y,Y
+Arthropoda,Hexapoda,Insecta,Isoptera,Kalotermitidae,Neotermes,Neotermes koshunensis,1.87,1828.86,,FIA,Y,Y
+Arthropoda,Hexapoda,Insecta,Isoptera,Mastotermitidae,Mastotermes,Mastotermes darwiniensis,1.30,1271.40,,FIA,Y,Y
+Arthropoda,Hexapoda,Insecta,Isoptera,Rhinotermitidae,Coptotermes,Coptotermes formosanus,0.93,909.54,,FCM,Y,Y
+Arthropoda,Hexapoda,Insecta,Isoptera,Rhinotermitidae,Coptotermes,Coptotermes formosanus,0.86,841.08,,FIA,Y,Y
+Arthropoda,Hexapoda,Insecta,Isoptera,Rhinotermitidae,Reticulitermes,Reticulitermes flavipes,1.07,1046.46,,FCM,Y,Y
+Arthropoda,Hexapoda,Insecta,Isoptera,Rhinotermitidae,Reticulitermes,Reticulitermes speratus kyushuensis,1.07,1046.46,,FIA,Y,Y
+Arthropoda,Hexapoda,Insecta,Isoptera,Rhinotermitidae,Reticulitermes,Reticulitermes speratus speratus,1.01,987.78,,FIA,Y,Y
+Arthropoda,Hexapoda,Insecta,Isoptera,Rhinotermitidae,Reticulitermes,Reticulitermes yaeyamanus,1.00,978.00,,FIA,Y,Y
+Arthropoda,Hexapoda,Insecta,Isoptera,Termitidae,Nasutitermes,Nasutitermes takasagoensis,1.68,1643.04,,FIA,Y,Y
+Arthropoda,Hexapoda,Insecta,Isoptera,Termitidae,Odontotermes,Odontotermes formosanus,1.48,1447.44,,FIA,Y,Y
+Arthropoda,Hexapoda,Insecta,Isoptera,Termitidae,Pericapritermes,Pericapritermes nitobei,1.90,1858.20,,FIA,Y,Y
+Arthropoda,Hexapoda,Insecta,Isoptera,Termopsidae,Hodotermopsis,Hodotermopsis sjostedti,1.27,1242.06,,FIA,Y,Y
+Arthropoda,Hexapoda,Insecta,Isoptera,Termopsidae,Zootermopsis,Zootermopsis nevadensis,0.58,567.24,,FIA,Y,Y
+Arthropoda,Hexapoda,Insecta,Mantodea,Hymenopodidae,Acromantis,Acromantis japonica,4.53,4430.34,,FIA,Y,Y
+Arthropoda,Hexapoda,Insecta,Mantodea,Mantidae,Litaneutria,Litaneutria sp.,3.32,3246.96,,FCM,Y,Y
+Arthropoda,Hexapoda,Insecta,Mantodea,Mantidae,Stagmomantis,Stagmomantis carolina,3.95,3863.10,,FCM,Y,Y
+Arthropoda,Hexapoda,Insecta,Mantodea,Mantidae,Statilia,Statilia maculata,3.05,2982.90,,FIA,Y,Y
+Arthropoda,Hexapoda,Insecta,Mantodea,Mantidae,Tenodera,Tenodera aridifolia,2.92,2855.76,,FIA,Y,Y
+Arthropoda,Hexapoda,Insecta,Orthoptera,Acrididae,Acrida,Acrida conica,10.82,10581.96,,FD,Y,Y
+Arthropoda,Hexapoda,Insecta,Orthoptera,Acrididae,Acrida,Acrida conica,12.55,12273.90,,FD,Y,Y
+Arthropoda,Hexapoda,Insecta,Orthoptera,Acrididae,Ailopus,Ailopus thalassinus,6.68,6533.04,,FD,Y,Y
+Arthropoda,Hexapoda,Insecta,Orthoptera,Acrididae,Austroicetes,Austroicetes pusilla,6.29,6151.62,,FD,Y,Y
+Arthropoda,Hexapoda,Insecta,Orthoptera,Acrididae,Caledia,Caledia captiva,10.90,10660.20,,FD,Y,Y
+Arthropoda,Hexapoda,Insecta,Orthoptera,Acrididae,Campylacantha,Campylacantha olivacea,6.57,6425.46,,FCM,Y,Y
+Arthropoda,Hexapoda,Insecta,Orthoptera,Acrididae,Chorthippus,Chorthippus apicalis,12.61,12332.58,,FD,Y,Y
+Arthropoda,Hexapoda,Insecta,Orthoptera,Acrididae,Chorthippus,Chorthippus binotatus binotatus,10.91,10669.98,,FD,Y,Y
+Arthropoda,Hexapoda,Insecta,Orthoptera,Acrididae,Chorthippus,Chorthippus brunneus,8.55,8361.90,18.00,FD,Y,Y
+Arthropoda,Hexapoda,Insecta,Orthoptera,Acrididae,Chorthippus,Chorthippus brunneus,9.46,9251.88,,FD,Y,Y
+Arthropoda,Hexapoda,Insecta,Orthoptera,Acrididae,Chorthippus,Chorthippus brunneus,10.15,9926.70,,FD,Y,Y
+Arthropoda,Hexapoda,Insecta,Orthoptera,Acrididae,Chorthippus,Chorthippus cf. binotatus,10.35,10122.30,,FD,Y,Y
+Arthropoda,Hexapoda,Insecta,Orthoptera,Acrididae,Chorthippus,Chorthippus dorsatus,8.34,8156.52,,FD,Y,Y
+Arthropoda,Hexapoda,Insecta,Orthoptera,Acrididae,Chorthippus,Chorthippus jacobsi,10.84,10601.52,,FD,Y,Y
+Arthropoda,Hexapoda,Insecta,Orthoptera,Acrididae,Chorthippus,Chorthippus jucundus,11.88,11618.64,,FD,Y,Y
+Arthropoda,Hexapoda,Insecta,Orthoptera,Acrididae,Chorthippus,Chorthippus longicornis,8.58,8391.24,,FD,Y,Y
+Arthropoda,Hexapoda,Insecta,Orthoptera,Acrididae,Chorthippus,Chorthippus nevadensis,11.53,11276.34,,FD,Y,Y
+Arthropoda,Hexapoda,Insecta,Orthoptera,Acrididae,Chorthippus,Chorthippus parallelus,12.31,12039.18,18.00,FD,Y,Y
+Arthropoda,Hexapoda,Insecta,Orthoptera,Acrididae,Chorthippus,Chorthippus parallelus,13.36,13066.08,,FD,Y,Y
+Arthropoda,Hexapoda,Insecta,Orthoptera,Acrididae,Chorthippus,Chorthippus parallelus,13.83,13525.74,,NS,Y,Y
+Arthropoda,Hexapoda,Insecta,Orthoptera,Acrididae,Chorthippus,Chorthippus parallelus,14.72,14396.16,,FD,Y,Y
+Arthropoda,Hexapoda,Insecta,Orthoptera,Acrididae,Chorthippus,Chorthippus scalaris,14.72,14396.16,,FD,Y,Y
+Arthropoda,Hexapoda,Insecta,Orthoptera,Acrididae,Chorthippus,Chorthippus vagans,8.64,8449.92,,FD,Y,Y
+Arthropoda,Hexapoda,Insecta,Orthoptera,Acrididae,Chorthippus,Chorthippus vagans,8.68,8489.04,,FD,Y,Y
+Arthropoda,Hexapoda,Insecta,Orthoptera,Acrididae,Chortoicetes,Chortoicetes terminifera,5.99,5858.22,,FD,Y,Y
+Arthropoda,Hexapoda,Insecta,Orthoptera,Acrididae,Chortoicetes,Chortoicetes terminifera,7.22,7061.16,,FD,Y,Y
+Arthropoda,Hexapoda,Insecta,Orthoptera,Acrididae,Cryptobothrus,Cryptobothrus chrysophorus,9.37,9163.86,24.00,FD,Y,Y
+Arthropoda,Hexapoda,Insecta,Orthoptera,Acrididae,Eyprepocnemis,Eyprepocnemis plorans,9.70,9486.60,,FIA,Y,Y
+Arthropoda,Hexapoda,Insecta,Orthoptera,Acrididae,Gastrimargus,Gastrimargus musicus,9.01,8811.78,,FD,Y,Y
+Arthropoda,Hexapoda,Insecta,Orthoptera,Acrididae,Gomphocerus,Gomphocerus sibiricus,8.95,8753.10,,FD,Y,Y
+Arthropoda,Hexapoda,Insecta,Orthoptera,Acrididae,Heteracris,Heteracris adspersus,6.34,6200.52,,FD,Y,Y
+Arthropoda,Hexapoda,Insecta,Orthoptera,Acrididae,Humbe,Humbe tenuicornis,8.21,8029.38,24.00,FD,Y,Y
+Arthropoda,Hexapoda,Insecta,Orthoptera,Acrididae,Locusta,Locusta migratoria,5.28,5163.84,,FD,Y,Y
+Arthropoda,Hexapoda,Insecta,Orthoptera,Acrididae,Locusta,Locusta migratoria,5.47,5349.66,24.00,FD,Y,Y
+Arthropoda,Hexapoda,Insecta,Orthoptera,Acrididae,Locusta,Locusta migratoria,6.09,5956.02,,FD,Y,Y
+Arthropoda,Hexapoda,Insecta,Orthoptera,Acrididae,Locusta,Locusta migratoria,6.27,6132.06,,FD,Y,Y
+Arthropoda,Hexapoda,Insecta,Orthoptera,Acrididae,Locusta,Locusta migratoria,6.35,6210.30,,FD,Y,Y
+Arthropoda,Hexapoda,Insecta,Orthoptera,Acrididae,Locusta,Locusta migratoria,6.44,6298.32,,FCM,Y,Y
+Arthropoda,Hexapoda,Insecta,Orthoptera,Acrididae,Macrotona,Macrotona australis,8.49,8303.22,24.00,FD,Y,Y
+Arthropoda,Hexapoda,Insecta,Orthoptera,Acrididae,Melanoplus,Melanoplus differentialis,3.84,3755.52,24.00,FD,Y,Y
+Arthropoda,Hexapoda,Insecta,Orthoptera,Acrididae,Melanoplus,Melanoplus differentialis,6.23,6092.94,,FD,Y,Y
+Arthropoda,Hexapoda,Insecta,Orthoptera,Acrididae,Melanoplus,Melanoplus differentialis,7.03,6875.34,,FCM,Y,Y
+Arthropoda,Hexapoda,Insecta,Orthoptera,Acrididae,Melanoplus,Melanoplus sanguinipes,5.83,5701.74,,FD,Y,Y
+Arthropoda,Hexapoda,Insecta,Orthoptera,Acrididae,Myrmeleotettix,Myrmeleotettix maculatus,12.14,11872.92,18.00,FD,Y,Y
+Arthropoda,Hexapoda,Insecta,Orthoptera,Acrididae,Myrmeleotettix,Myrmeleotettix maculatus,12.66,12381.48,,FD,Y,Y
+Arthropoda,Hexapoda,Insecta,Orthoptera,Acrididae,Myrmeleotettix,Myrmeleotettix maculatus,13.38,13085.64,,NS,Y,Y
+Arthropoda,Hexapoda,Insecta,Orthoptera,Acrididae,Omocestus,Omocestus viridulus,13.16,12870.48,18.00,FD,Y,Y
+Arthropoda,Hexapoda,Insecta,Orthoptera,Acrididae,Peakesia,Peakesia hospita,10.47,10239.66,,FD,Y,Y
+Arthropoda,Hexapoda,Insecta,Orthoptera,Acrididae,Phaulacridium,Phaulacridium vittatum,10.73,10493.94,24.00,FD,Y,Y
+Arthropoda,Hexapoda,Insecta,Orthoptera,Acrididae,Podisma,Podisma pedestris,16.93,16557.54,,FD,Y,Y
+Arthropoda,Hexapoda,Insecta,Orthoptera,Acrididae,Schistocerca,Schistocerca cancellata,9.49,9281.22,24.00,FD,Y,Y
+Arthropoda,Hexapoda,Insecta,Orthoptera,Acrididae,Schistocerca,Schistocerca gregaria,8.55,8361.90,24.00,FD,Y,Y
+Arthropoda,Hexapoda,Insecta,Orthoptera,Acrididae,Schistocerca,Schistocerca gregaria,8.71,8518.38,,FD,Y,Y
+Arthropoda,Hexapoda,Insecta,Orthoptera,Acrididae,Schistocerca,Schistocerca gregaria,8.96,8762.88,,FD,Y,Y
+Arthropoda,Hexapoda,Insecta,Orthoptera,Acrididae,Schistocerca,Schistocerca paranensis,8.63,8440.14,24.00,FD,Y,Y
+Arthropoda,Hexapoda,Insecta,Orthoptera,Acrididae,Schizobothrus,Schizobothrus flavovittatus,7.50,7335.00,,FD,Y,Y
+Arthropoda,Hexapoda,Insecta,Orthoptera,Acrididae,Stauroderus,Stauroderus scalaris,16.34,15980.52,,NS,Y,Y
+Arthropoda,Hexapoda,Insecta,Orthoptera,Acrididae,Valanga,Valanga irregularis,9.44,9232.32,,FD,Y,Y
+Arthropoda,Hexapoda,Insecta,Orthoptera,Eumasticidae,Warramaba,Warramaba virgo,3.75,3667.50,,NS,Y,Y
+Arthropoda,Hexapoda,Insecta,Orthoptera,Eumasticidae,Warramaba,Warramaba virgo,4.00,3912.00,16.00,FD,Y,Y
+Arthropoda,Hexapoda,Insecta,Orthoptera,Gryllacrididae,Ceuthophilus,Ceuthophilus stygius,9.55,9339.90,,FD,Y,Y
+Arthropoda,Hexapoda,Insecta,Orthoptera,Gryllidae,Acheta,Acheta domesticus,2.00,1956.00,12.00,FD,Y,Y
+Arthropoda,Hexapoda,Insecta,Orthoptera,Gryllidae,Acheta,Acheta domesticus,2.00,1956.00,,FD,Y,Y
+Arthropoda,Hexapoda,Insecta,Orthoptera,Gryllidae,Acheta,Acheta domesticus,2.00,1956.00,,FCM,Y,Y
+Arthropoda,Hexapoda,Insecta,Orthoptera,Gryllidae,Acheta,Acheta domesticus,2.00,1956.00,,FIA,Y,Y
+Arthropoda,Hexapoda,Insecta,Orthoptera,Gryllidae,Acheta,Acheta domesticus,2.38,2327.64,,FIA,Y,Y
+Arthropoda,Hexapoda,Insecta,Orthoptera,Gryllidae,Gryllus,Gryllus pennsylvanicus,2.00,1956.00,22.00,FD,Y,Y
+Arthropoda,Hexapoda,Insecta,Orthoptera,Gryllidae,Gryllus,Gryllus pennsylvanicus,2.06,2014.68,,FD,Y,Y
+Arthropoda,Hexapoda,Insecta,Orthoptera,Gryllidae,Gryllus,Gryllus pennsylvanicus,2.68,2621.04,,NS,Y,Y
+Arthropoda,Hexapoda,Insecta,Orthoptera,Gryllidae,Hadenoecus,Hadenoecus subterraneus,1.55,1515.90,,FD,Y,Y
+Arthropoda,Hexapoda,Insecta,Orthoptera,Gryllidae,Laupala,Laupala cerasina,1.93,1887.54,,FCM,Y,Y
+Arthropoda,Hexapoda,Insecta,Orthoptera,Gryllidae,Oecanthus,Oecanthus niveus,1.71,1672.38,,FCM,Y,Y
+Arthropoda,Hexapoda,Insecta,Orthoptera,Gryllotalpidae,Neoscapteriscus,Neoscapteriscus borellii,3.41,3334.98,,FCM,Y,Y
+Arthropoda,Hexapoda,Insecta,Orthoptera,Tettigoniidae,Conocephalus,Conocephalus sp.,2.84,2777.52,,FCM,Y,Y
+Arthropoda,Hexapoda,Insecta,Orthoptera,Tettigoniidae,Neoconocephalus,Neoconocephalus triops,7.61,7442.58,,FCM,Y,Y
+Arthropoda,Hexapoda,Insecta,Orthoptera,Tridactylidae,Unknown,Unknown sp.,2.63,2572.14,,FCM,Y,Y
+Arthropoda,Hexapoda,Insecta,Phasmatodea,Pseudophasmatidae,Anisomorpha,Anisomorpha buprestoides,2.97,2904.66,,FCM,Y,Y
+Arthropoda,Hexapoda,Insecta,Phasmatodea,Timematidae,Timema,Timema cristinae,1.36,1330.08,,FCM,Y,Y
+Arthropoda,Hexapoda,Insecta,Phasmida,Heteronemiidae,Diapheromera,Diapheromera femorata,2.55,2493.90,0-0,FIA,Y,Y
+Arthropoda,Hexapoda,Insecta,Phasmida,Phasmatidae,Bacillus,Bacillus atticus atticus,2.30,2249.40,34.00,FCM,Y,Y
+Arthropoda,Hexapoda,Insecta,Phasmida,Phasmatidae,Bacillus,Bacillus atticus caprai,2.23,2180.94,34.00,FCM,Y,Y
+Arthropoda,Hexapoda,Insecta,Phasmida,Phasmatidae,Bacillus,Bacillus atticus carius,2.94,2875.32,34.00,FCM,Y,Y
+Arthropoda,Hexapoda,Insecta,Phasmida,Phasmatidae,Bacillus,Bacillus atticus cyprius,2.45,2396.10,34.00,FCM,Y,Y
+Arthropoda,Hexapoda,Insecta,Phasmida,Phasmatidae,Bacillus,Bacillus grandii grandii,2.61,2552.58,34.00,FCM,Y,Y
+Arthropoda,Hexapoda,Insecta,Phasmida,Phasmatidae,Bacillus,Bacillus grandii grandii,2.16,2112.48,33.00,FCM,Y,Y
+Arthropoda,Hexapoda,Insecta,Phasmida,Phasmatidae,Bacillus,Bacillus rossius redtenbacheri,2.17,2122.26,36.00,FCM,Y,Y
+Arthropoda,Hexapoda,Insecta,Phasmida,Phasmatidae,Bacillus,Bacillus rossius redtenbacheri,1.95,1907.10,35.00,FCM,Y,Y
+Arthropoda,Hexapoda,Insecta,Phasmida,Phasmatidae,Bacillus,Bacillus whitei,2.27,2220.06,35.00,FCM,Y,Y
+Arthropoda,Hexapoda,Insecta,Phasmida,Phasmatidae,Extatosoma,Extatosoma tiaratum,8.00,7824.00,,FD,Y,Y
+Arthropoda,Hexapoda,Insecta,Zoraptera,Zorotypidae,Zorotypus,Zorotypus hubbardi,1.89,1848.42,,FCM,Y,Y
+Arthropoda,Hexapoda,Insecta,Blattodea,Blaberidae,Blaberus,Blaberus_fuscus,3.36,3286.08,,FD,N,Y
+Arthropoda,Hexapoda,Insecta,Blattodea,Blaberidae,Blaptica,Blaptica_dubia,4.54,4440.12,,FIA,N,Y
+Arthropoda,Hexapoda,Insecta,Blattodea,Blaberidae,Nauphoeta,Nauphoeta_cinerea,5.15,5036.7,,FIA,N,Y
+Arthropoda,Hexapoda,Insecta,Blattodea,Blaberidae,Panchlora,Panchlora_nivea,1.52,1486.56,,FCM,N,Y
+Arthropoda,Hexapoda,Insecta,Blattodea,Blattellidae,Blattella,Blattella_nipponica,2.13,2083.14,,FIA,N,Y
+Arthropoda,Hexapoda,Insecta,Blattodea,Blattellidae,Blattella,Blattella_germanica,2.21,2161.66,,,N,N
+Arthropoda,Hexapoda,Insecta,Blattodea,Blattellidae,Blattella,Blattella_germanica,2,1956,,FD,N,Y
+Arthropoda,Hexapoda,Insecta,Blattodea,Blattellidae,Blattella,Blattella_germanica,2.14,2090.7,,,N,N
+Arthropoda,Hexapoda,Insecta,Blattodea,Blattellidae,Parcoblatta,Parcoblatta_pensylvanica,1.05,1026.9,,FCM,N,Y
+Arthropoda,Hexapoda,Insecta,Blattodea,Blattidae,Blatta,Blatta_orientalis,3.03,2963.34,,FD,N,Y
+Arthropoda,Hexapoda,Insecta,Blattodea,Blattidae,Periplaneta,Periplaneta_americana,2.72,2660.16,,FD,N,Y
+Arthropoda,Hexapoda,Insecta,Blattodea,Blattidae,Periplaneta,Periplaneta_americana,3.41,3334.98,,FCM,N,Y
+Arthropoda,Hexapoda,Insecta,Blattodea,Blattidae,Periplaneta,Periplaneta_fuliginosa,4.6,4498.9,,,N,N
+Arthropoda,Hexapoda,Insecta,Blattodea,Cryptocercidae,Cryptocercus,Cryptocercus_kyebangensis,1.16,1134.48,,FIA,N,Y
+Arthropoda,Hexapoda,Insecta,Blattodea,Cryptocercidae,Cryptocercus,Cryptocercus_punctulatus,1.32,1290.96,,FIA,N,Y
+Arthropoda,Hexapoda,Insecta,Isoptera,Hodotermitidae,Hodotermes,Hodotermes_mossambicus,1,978,,FIA,N,Y
+Arthropoda,Hexapoda,Insecta,Isoptera,Kalotermitidae,Glyptotermes,Glyptotermes_fuscus,1.56,1525.68,,FIA,N,Y
+Arthropoda,Hexapoda,Insecta,Isoptera,Kalotermitidae,Glyptotermes,Glyptotermes_nakajimai,0.89,870.42,,FIA,N,Y
+Arthropoda,Hexapoda,Insecta,Isoptera,Kalotermitidae,Neotermes,Neotermes_koshunensis,1.87,1828.86,,FIA,N,Y
+Arthropoda,Hexapoda,Insecta,Isoptera,Mastotermitidae,Mastotermes,Mastotermes_darwiniensis,1.3,1271.4,,FIA,N,Y
+Arthropoda,Hexapoda,Insecta,Isoptera,Rhinotermitidae,Coptotermes,Coptotermes_formosanus,0.93,909.54,,FCM,N,Y
+Arthropoda,Hexapoda,Insecta,Isoptera,Rhinotermitidae,Coptotermes,Coptotermes_formosanus,0.86,841.08,,FIA,N,Y
+Arthropoda,Hexapoda,Insecta,Isoptera,Rhinotermitidae,Reticulitermes,Reticulitermes_flavipes,1.07,1046.46,,FCM,N,Y
+Arthropoda,Hexapoda,Insecta,Isoptera,Rhinotermitidae,Reticulitermes,Reticulitermes_speratus,1.07,1046.46,,FIA,N,Y
+Arthropoda,Hexapoda,Insecta,Isoptera,Rhinotermitidae,Reticulitermes,Reticulitermes_speratus,1.01,987.78,,FIA,N,Y
+Arthropoda,Hexapoda,Insecta,Isoptera,Rhinotermitidae,Reticulitermes,Reticulitermes_yaeyamanus,1,978,,FIA,N,Y
+Arthropoda,Hexapoda,Insecta,Isoptera,Termitidae,Nasutitermes,Nasutitermes_takasagoensis,1.68,1643.04,,FIA,N,Y
+Arthropoda,Hexapoda,Insecta,Isoptera,Termitidae,Odontotermes,Odontotermes_formosanus,1.48,1447.44,,FIA,N,Y
+Arthropoda,Hexapoda,Insecta,Isoptera,Termitidae,Pericapritermes,Pericapritermes_nitobei,1.9,1858.2,,FIA,N,Y
+Arthropoda,Hexapoda,Insecta,Isoptera,Termopsidae,Hodotermopsis,Hodotermopsis_sjostedti,1.27,1242.06,,FIA,N,Y
+Arthropoda,Hexapoda,Insecta,Isoptera,Termopsidae,Zootermopsis,Zootermopsis_nevadensis,0.58,567.24,,FIA,N,Y
+Arthropoda,Hexapoda,Insecta,Mantodea,Hymenopodidae,Acromantis,Acromantis_japonica,4.53,4430.34,,FIA,N,Y
+Arthropoda,Hexapoda,Insecta,Mantodea,Mantidae,Litaneutria,Litaneutria_sp.,3.32,3246.96,,FCM,N,Y
+Arthropoda,Hexapoda,Insecta,Mantodea,Mantidae,Stagmomantis,Stagmomantis_carolina,3.95,3863.1,,FCM,N,Y
+Arthropoda,Hexapoda,Insecta,Mantodea,Mantidae,Statilia,Statilia_maculata,3.05,2982.9,,FIA,N,Y
+Arthropoda,Hexapoda,Insecta,Mantodea,Mantidae,Stegomantis,Stegomantis_sp,3.54,3461.51,,,N,N
+Arthropoda,Hexapoda,Insecta,Mantodea,Mantidae,Tenodera,Tenodera_aridifolia,2.92,2855.76,,FIA,N,Y
+Arthropoda,Hexapoda,Insecta,Mantodea,Thespidae,Thesprotia,Thesprotia_graminis,2.12,2071.5,,,N,N
+Arthropoda,Hexapoda,Insecta,Orthoptera,Acrididae,Acantherus,Acantherus_piperatus,14.61,14287.9,,,N,N
+Arthropoda,Hexapoda,Insecta,Orthoptera,Acrididae,Acrida,Acrida_conica,10.82,10581.96,,FD,N,Y
+Arthropoda,Hexapoda,Insecta,Orthoptera,Acrididae,Acrida,Acrida_conica,12.55,12273.9,,FD,N,Y
+Arthropoda,Hexapoda,Insecta,Orthoptera,Acrididae,Acrolophitus,Acrolophitus_hirtipes,15.15,14813.4,,,N,N
+Arthropoda,Hexapoda,Insecta,Orthoptera,Acrididae,Ailopus,Ailopus_thalassinus,6.68,6533.04,,FD,N,Y
+Arthropoda,Hexapoda,Insecta,Orthoptera,Acrididae,Arethea,Arethea_?,8.73,8539.8,,,N,N
+Arthropoda,Hexapoda,Insecta,Orthoptera,Acrididae,Arphia,Arphia_simplex,12.09,11823.3,,,N,N
+Arthropoda,Hexapoda,Insecta,Orthoptera,Acrididae,Arphia,Arphia_simplex,113.85,111348,,,N,N
+Arthropoda,Hexapoda,Insecta,Orthoptera,Acrididae,Austroicetes,Austroicetes_pusilla,6.29,6151.62,,FD,N,Y
+Arthropoda,Hexapoda,Insecta,Orthoptera,Acrididae,Bootettix,Bootettix_argentatus,12.27,11998.2,,,N,N
+Arthropoda,Hexapoda,Insecta,Orthoptera,Acrididae,Bootettix,Bootettix_argentatus,11.66,11401.1,,,N,N
+Arthropoda,Hexapoda,Insecta,Orthoptera,Acrididae,Brachystola,Brachystola_magna,17.19,16807,,,N,N
+Arthropoda,Hexapoda,Insecta,Orthoptera,Acrididae,Caledia,Caledia_captiva,10.9,10660.2,,FD,N,Y
+Arthropoda,Hexapoda,Insecta,Orthoptera,Acrididae,Campylacantha,Campylacantha_olivacea,6.57,6425.46,,FCM,N,Y
+Arthropoda,Hexapoda,Insecta,Orthoptera,Acrididae,Chorthippus,Chorthippus_apicalis,12.61,12332.58,,FD,N,Y
+Arthropoda,Hexapoda,Insecta,Orthoptera,Acrididae,Chorthippus,Chorthippus_binotatus,10.91,10669.98,,FD,N,Y
+Arthropoda,Hexapoda,Insecta,Orthoptera,Acrididae,Chorthippus,Chorthippus_brunneus,8.55,8361.9,,FD,N,Y
+Arthropoda,Hexapoda,Insecta,Orthoptera,Acrididae,Chorthippus,Chorthippus_brunneus,9.46,9251.88,,FD,N,Y
+Arthropoda,Hexapoda,Insecta,Orthoptera,Acrididae,Chorthippus,Chorthippus_brunneus,10.15,9926.7,,FD,N,Y
+Arthropoda,Hexapoda,Insecta,Orthoptera,Acrididae,Chorthippus,Chorthippus_cf.,10.35,10122.3,,FD,N,Y
+Arthropoda,Hexapoda,Insecta,Orthoptera,Acrididae,Chorthippus,Chorthippus_dorsatus,8.34,8156.52,,FD,N,Y
+Arthropoda,Hexapoda,Insecta,Orthoptera,Acrididae,Chorthippus,Chorthippus_jacobsi,10.84,10601.52,,FD,N,Y
+Arthropoda,Hexapoda,Insecta,Orthoptera,Acrididae,Chorthippus,Chorthippus_jucundus,11.88,11618.64,,FD,N,Y
+Arthropoda,Hexapoda,Insecta,Orthoptera,Acrididae,Chorthippus,Chorthippus_longicornis,8.58,8391.24,,FD,N,Y
+Arthropoda,Hexapoda,Insecta,Orthoptera,Acrididae,Chorthippus,Chorthippus_nevadensis,11.53,11276.34,,FD,N,Y
+Arthropoda,Hexapoda,Insecta,Orthoptera,Acrididae,Chorthippus,Chorthippus_parallelus,12.31,12039.18,,FD,N,Y
+Arthropoda,Hexapoda,Insecta,Orthoptera,Acrididae,Chorthippus,Chorthippus_parallelus,13.36,13066.08,,FD,N,Y
+Arthropoda,Hexapoda,Insecta,Orthoptera,Acrididae,Chorthippus,Chorthippus_parallelus,13.83,13525.74,,NS,N,Y
+Arthropoda,Hexapoda,Insecta,Orthoptera,Acrididae,Chorthippus,Chorthippus_parallelus,14.72,14396.16,,FD,N,Y
+Arthropoda,Hexapoda,Insecta,Orthoptera,Acrididae,Chorthippus,Chorthippus_scalaris,14.72,14396.16,,FD,N,Y
+Arthropoda,Hexapoda,Insecta,Orthoptera,Acrididae,Chorthippus,Chorthippus_vagans,8.64,8449.92,,FD,N,Y
+Arthropoda,Hexapoda,Insecta,Orthoptera,Acrididae,Chorthippus,Chorthippus_vagans,8.68,8489.04,,FD,N,Y
+Arthropoda,Hexapoda,Insecta,Orthoptera,Acrididae,Chortoicetes,Chortoicetes_terminifera,5.99,5858.22,,FD,N,Y
+Arthropoda,Hexapoda,Insecta,Orthoptera,Acrididae,Chortoicetes,Chortoicetes_terminifera,7.22,7061.16,,FD,N,Y
+Arthropoda,Hexapoda,Insecta,Orthoptera,Acrididae,Chortophaga,Chortophaga_viridifasciata,10.67,10435.6,,,N,N
+Arthropoda,Hexapoda,Insecta,Orthoptera,Acrididae,Chortophaga,Chortophaga_viridifasciata,10.51,10279.7,,,N,N
+Arthropoda,Hexapoda,Insecta,Orthoptera,Acrididae,Cryptobothrus,Cryptobothrus_chrysophorus,9.37,9163.86,,FD,N,Y
+Arthropoda,Hexapoda,Insecta,Orthoptera,Acrididae,Dactylotum,Dactylotum_bicolor,10.44,10211.2,,,N,N
+Arthropoda,Hexapoda,Insecta,Orthoptera,Acrididae,Encoptolophus,Encoptolophus_costalis,8.64,8449,,,N,N
+Arthropoda,Hexapoda,Insecta,Orthoptera,Acrididae,Encoptolophus,Encoptolophus_costalis,8.15,7971.5,,,N,N
+Arthropoda,Hexapoda,Insecta,Orthoptera,Acrididae,Eyprepocnemis,Eyprepocnemis_plorans,9.7,9486.6,,FIA,N,Y
+Arthropoda,Hexapoda,Insecta,Orthoptera,Acrididae,Gastrimargus,Gastrimargus_musicus,9.01,8811.78,,FD,N,Y
+Arthropoda,Hexapoda,Insecta,Orthoptera,Acrididae,Gomphocerus,Gomphocerus_sibiricus,8.95,8753.1,,FD,N,Y
+Arthropoda,Hexapoda,Insecta,Orthoptera,Acrididae,Hadrotettix,Hadrotettix_trifasciatus,18.46,18051.1,,,N,N
+Arthropoda,Hexapoda,Insecta,Orthoptera,Acrididae,Hadrotettix,Hadrotettix_trifasciatus,17.89,17495.7,,,N,N
+Arthropoda,Hexapoda,Insecta,Orthoptera,Acrididae,Heteracris,Heteracris_adspersus,6.34,6200.52,,FD,N,Y
+Arthropoda,Hexapoda,Insecta,Orthoptera,Acrididae,Hippuscus,Hippuscus_ocelote,14.12,13810.4,,,N,N
+Arthropoda,Hexapoda,Insecta,Orthoptera,Acrididae,Hippuscus,Hippuscus_ocelote,12.21,11940.9,,,N,N
+Arthropoda,Hexapoda,Insecta,Orthoptera,Acrididae,Humbe,Humbe_tenuicornis,8.21,8029.38,,FD,N,Y
+Arthropoda,Hexapoda,Insecta,Orthoptera,Acrididae,Lactista,Lactista_azteca,10.23,10007.5,,,N,N
+Arthropoda,Hexapoda,Insecta,Orthoptera,Acrididae,Lactista,Lactista_azteca,9.77,9555.5,,,N,N
+Arthropoda,Hexapoda,Insecta,Orthoptera,Acrididae,Leprus,Leprus_wheeleri,14.28,13968.1,,,N,N
+Arthropoda,Hexapoda,Insecta,Orthoptera,Acrididae,Leprus,Leprus_wheeleri,13.77,13466.6,,,N,N
+Arthropoda,Hexapoda,Insecta,Orthoptera,Acrididae,Locusta,Locusta_migratoria,5.28,5163.84,,FD,N,Y
+Arthropoda,Hexapoda,Insecta,Orthoptera,Acrididae,Locusta,Locusta_migratoria,5.47,5349.66,,FD,N,Y
+Arthropoda,Hexapoda,Insecta,Orthoptera,Acrididae,Locusta,Locusta_migratoria,6.09,5956.02,,FD,N,Y
+Arthropoda,Hexapoda,Insecta,Orthoptera,Acrididae,Locusta,Locusta_migratoria,6.27,6132.06,,FD,N,Y
+Arthropoda,Hexapoda,Insecta,Orthoptera,Acrididae,Locusta,Locusta_migratoria,6.35,6210.3,,FD,N,Y
+Arthropoda,Hexapoda,Insecta,Orthoptera,Acrididae,Locusta,Locusta_migratoria,6.44,6298.32,,FCM,N,Y
+Arthropoda,Hexapoda,Insecta,Orthoptera,Acrididae,Macrotona,Macrotona_australis,8.49,8303.22,,FD,N,Y
+Arthropoda,Hexapoda,Insecta,Orthoptera,Acrididae,Melanoplus,Melanoplus_differentialis,3.84,3755.52,,FD,N,Y
+Arthropoda,Hexapoda,Insecta,Orthoptera,Acrididae,Melanoplus,Melanoplus_differentialis,6.23,6092.94,,FD,N,Y
+Arthropoda,Hexapoda,Insecta,Orthoptera,Acrididae,Melanoplus,Melanoplus_differentialis,7.03,6875.34,,FCM,N,Y
+Arthropoda,Hexapoda,Insecta,Orthoptera,Acrididae,Melanoplus,Melanoplus_sanguinipes,5.83,5701.74,,FD,N,Y
+Arthropoda,Hexapoda,Insecta,Orthoptera,Acrididae,Melanoplus,Melanoplus_bispinosus,5.94,5813,,,N,N
+Arthropoda,Hexapoda,Insecta,Orthoptera,Acrididae,Melanoplus,Melanoplus_differentialis,7.26,7096.2,,,N,N
+Arthropoda,Hexapoda,Insecta,Orthoptera,Acrididae,Melanoplus,Melanoplus_differentialis,6.82,6668.9,,,N,N
+Arthropoda,Hexapoda,Insecta,Orthoptera,Acrididae,Melanoplus,Melanoplus_femurrubrum,6.15,6011.2,,,N,N
+Arthropoda,Hexapoda,Insecta,Orthoptera,Acrididae,Melanoplus,Melanoplus_femurrubrum,5.4,5277.1,,,N,N
+Arthropoda,Hexapoda,Insecta,Orthoptera,Acrididae,Mermiria,Mermiria_bivittata,15.78,15430.5,,,N,N
+Arthropoda,Hexapoda,Insecta,Orthoptera,Acrididae,Mermiria,Mermiria_bivittata,14.82,14496.9,,,N,N
+Arthropoda,Hexapoda,Insecta,Orthoptera,Acrididae,Myrmeleotettix,Myrmeleotettix_maculatus,12.14,11872.92,,FD,N,Y
+Arthropoda,Hexapoda,Insecta,Orthoptera,Acrididae,Myrmeleotettix,Myrmeleotettix_maculatus,12.66,12381.48,,FD,N,Y
+Arthropoda,Hexapoda,Insecta,Orthoptera,Acrididae,Myrmeleotettix,Myrmeleotettix_maculatus,13.38,13085.64,,NS,N,Y
+Arthropoda,Hexapoda,Insecta,Orthoptera,Acrididae,Omocestus,Omocestus_viridulus,13.16,12870.48,,FD,N,Y
+Arthropoda,Hexapoda,Insecta,Orthoptera,Acrididae,Peakesia,Peakesia_hospita,10.47,10239.66,,FD,N,Y
+Arthropoda,Hexapoda,Insecta,Orthoptera,Acrididae,Phaulacridium,Phaulacridium_vittatum,10.73,10493.94,,FD,N,Y
+Arthropoda,Hexapoda,Insecta,Orthoptera,Acrididae,Podisma,Podisma_pedestris,16.93,16557.54,,FD,N,Y
+Arthropoda,Hexapoda,Insecta,Orthoptera,Acrididae,Psinidia,Psinidia_amplicornis,9.54,9325.4,,,N,N
+Arthropoda,Hexapoda,Insecta,Orthoptera,Acrididae,Psinidia,Psinidia_amplicornis,9.02,8824.1,,,N,N
+Arthropoda,Hexapoda,Insecta,Orthoptera,Acrididae,Schistocerca,Schistocerca_cancellata,9.49,9281.22,,FD,N,Y
+Arthropoda,Hexapoda,Insecta,Orthoptera,Acrididae,Schistocerca,Schistocerca_gregaria,8.55,8361.9,,FD,N,Y
+Arthropoda,Hexapoda,Insecta,Orthoptera,Acrididae,Schistocerca,Schistocerca_gregaria,8.71,8518.38,,FD,N,Y
+Arthropoda,Hexapoda,Insecta,Orthoptera,Acrididae,Schistocerca,Schistocerca_gregaria,8.96,8762.88,,FD,N,Y
+Arthropoda,Hexapoda,Insecta,Orthoptera,Acrididae,Schistocerca,Schistocerca_paranensis,8.63,8440.14,,FD,N,Y
+Arthropoda,Hexapoda,Insecta,Orthoptera,Acrididae,Schistocerca,Schistocerca_Americana,8.44,8259.15,,,N,N
+Arthropoda,Hexapoda,Insecta,Orthoptera,Acrididae,Schistocerca,Schistocerca_nitens,9.46,9251.34,,,N,N
+Arthropoda,Hexapoda,Insecta,Orthoptera,Acrididae,Schistocerca,Schistocerca_obscura,9.53,9318.86,,,N,N
+Arthropoda,Hexapoda,Insecta,Orthoptera,Acrididae,Schizobothrus,Schizobothrus_flavovittatus,7.5,7335,,FD,N,Y
+Arthropoda,Hexapoda,Insecta,Orthoptera,Acrididae,Spharagemon,Spharagemon_cristatum,10.36,10129.4,,,N,N
+Arthropoda,Hexapoda,Insecta,Orthoptera,Acrididae,Spharagemon,Spharagemon_cristatum,9.99,9774.37,,,N,N
+Arthropoda,Hexapoda,Insecta,Orthoptera,Acrididae,Spharagemon,Spharagemon_equale,12.54,12260.4,,,N,N
+Arthropoda,Hexapoda,Insecta,Orthoptera,Acrididae,Stauroderus,Stauroderus_scalaris,16.34,15980.52,,NS,N,Y
+Arthropoda,Hexapoda,Insecta,Orthoptera,Acrididae,Syrbula,Syrbula_admirabilis,9.81,9589.9,,,N,N
+Arthropoda,Hexapoda,Insecta,Orthoptera,Acrididae,Syrbula,Syrbula_admirabilis,9.41,9201,,,N,N
+Arthropoda,Hexapoda,Insecta,Orthoptera,Acrididae,Syrbula,Syrbula_montezuma,12.03,11765.8,,,N,N
+Arthropoda,Hexapoda,Insecta,Orthoptera,Acrididae,Syrbula,Syrbula_montezuma,11.4,11151.9,,,N,N
+Arthropoda,Hexapoda,Insecta,Orthoptera,Acrididae,Trachyrachys,Trachyrachys_kiowa,9.57,9357.4,,,N,N
+Arthropoda,Hexapoda,Insecta,Orthoptera,Acrididae,Trachyrachys,Trachyrachys_kiowa,9.04,8842.2,,,N,N
+Arthropoda,Hexapoda,Insecta,Orthoptera,Acrididae,Trimerotropis,Trimerotropis_pallidipennis,9.33,9129,,,N,N
+Arthropoda,Hexapoda,Insecta,Orthoptera,Acrididae,Trimerotropis,Trimerotropis_pallidipennis,9.32,9112.3,,,N,N
+Arthropoda,Hexapoda,Insecta,Orthoptera,Acrididae,Trimerotropis,Trimerotropis_sp,12.41,12134.2,,,N,N
+Arthropoda,Hexapoda,Insecta,Orthoptera,Acrididae,Valanga,Valanga_irregularis,9.44,9232.32,,FD,N,Y
+Arthropoda,Hexapoda,Insecta,Orthoptera,Acrididae,Xanthippus,Xanthippus_corallipes,14.07,13759.3,,,N,N
+Arthropoda,Hexapoda,Insecta,Orthoptera,Acrididae,Xanthippus,Xanthippus_corallipes,13.1,12809.9,,,N,N
+Arthropoda,Hexapoda,Insecta,Orthoptera,Acrididae,Xanthippus,Xanthippus_corallipes pantherinus,13.05,12765.2,,,N,N
+Arthropoda,Hexapoda,Insecta,Orthoptera,Eumasticidae,Warramaba,Warramaba_virgo,3.75,3667.5,,NS,N,Y
+Arthropoda,Hexapoda,Insecta,Orthoptera,Eumasticidae,Warramaba,Warramaba_virgo,4,3912,,FD,N,Y
+Arthropoda,Hexapoda,Insecta,Orthoptera,Gryllacrididae,Ceuthophilus,Ceuthophilus_stygius,9.55,9339.9,,FD,N,Y
+Arthropoda,Hexapoda,Insecta,Orthoptera,Gryllidae,Acheta,Acheta_domesticus,2,1956,,FD,N,Y
+Arthropoda,Hexapoda,Insecta,Orthoptera,Gryllidae,Acheta,Acheta_domesticus,2,1956,,FD,N,Y
+Arthropoda,Hexapoda,Insecta,Orthoptera,Gryllidae,Acheta,Acheta_domesticus,2,1956,,FCM,N,Y
+Arthropoda,Hexapoda,Insecta,Orthoptera,Gryllidae,Acheta,Acheta_domesticus,2,1956,,FIA,N,Y
+Arthropoda,Hexapoda,Insecta,Orthoptera,Gryllidae,Acheta,Acheta_domesticus,2.38,2327.64,,FIA,N,Y
+Arthropoda,Hexapoda,Insecta,Orthoptera,Gryllidae,Gryllus,Gryllus_pennsylvanicus,2,1956,,FD,N,Y
+Arthropoda,Hexapoda,Insecta,Orthoptera,Gryllidae,Gryllus,Gryllus_pennsylvanicus,2.06,2014.68,,FD,N,Y
+Arthropoda,Hexapoda,Insecta,Orthoptera,Gryllidae,Gryllus,Gryllus_pennsylvanicus,2.68,2621.04,,NS,N,Y
+Arthropoda,Hexapoda,Insecta,Orthoptera,Gryllidae,Hadenoecus,Hadenoecus_subterraneus,1.55,1515.9,,FD,N,Y
+Arthropoda,Hexapoda,Insecta,Orthoptera,Gryllidae,Laupala,Laupala_cerasina,1.93,1887.54,,FCM,N,Y
+Arthropoda,Hexapoda,Insecta,Orthoptera,Gryllidae,Oecanthus,Oecanthus_niveus,1.71,1672.38,,FCM,N,Y
+Arthropoda,Hexapoda,Insecta,Orthoptera,Gryllotalpidae,Neoscapteriscus,Neoscapteriscus_borellii,3.41,3334.98,,FCM,N,Y
+Arthropoda,Hexapoda,Insecta,Orthoptera,Tettigoniidae,Conocephalus,Conocephalus_sp.,2.84,2777.52,,FCM,N,Y
+Arthropoda,Hexapoda,Insecta,Orthoptera,Tettigoniidae,Neobarrettia,Neobarrettia_spinosa,5.45,5328.1,,,N,N
+Arthropoda,Hexapoda,Insecta,Orthoptera,Tettigoniidae,Neobarrettia,Neobarrettia_spinosa,4.87,4766.3,,,N,N
+Arthropoda,Hexapoda,Insecta,Orthoptera,Tettigoniidae,Neoconocephalus,Neoconocephalus_triops,7.61,7442.58,,FCM,N,Y
+Arthropoda,Hexapoda,Insecta,Orthoptera,Tettigoniidae,Pediodectes,Pediodectes_sp.,9.28,9080.7,,,N,N
+Arthropoda,Hexapoda,Insecta,Orthoptera,Tettigoniidae,Pediodectes,Pediodectes_tinkhami?,7.97,7795.73,,,N,N
+Arthropoda,Hexapoda,Insecta,Orthoptera,Tettigoniidae,Scudderia,Scudderia_sp.,13.37,13079.3,,,N,N
+Arthropoda,Hexapoda,Insecta,Orthoptera,Tridactylidae,Unknown,Unknown_sp.,2.63,2572.14,,FCM,N,Y
+Arthropoda,Hexapoda,Insecta,Phasmatodea,Diapheromeridae,Megaphasma,Megaphasma_dentricrus,2.84,2774.1,,,N,N
+Arthropoda,Hexapoda,Insecta,Phasmatodea,Heteronemiidae,Diapheromera,Diapheromera_femorata,2.55,2493.9,,FIA,N,Y
+Arthropoda,Hexapoda,Insecta,Phasmatodea,Phasmatidae,Bacillus,Bacillus_atticus,2.3,2249.4,,FCM,N,Y
+Arthropoda,Hexapoda,Insecta,Phasmatodea,Phasmatidae,Bacillus,Bacillus_atticus,2.23,2180.94,,FCM,N,Y
+Arthropoda,Hexapoda,Insecta,Phasmatodea,Phasmatidae,Bacillus,Bacillus_atticus,2.94,2875.32,,FCM,N,Y
+Arthropoda,Hexapoda,Insecta,Phasmatodea,Phasmatidae,Bacillus,Bacillus_atticus,2.45,2396.1,,FCM,N,Y
+Arthropoda,Hexapoda,Insecta,Phasmatodea,Phasmatidae,Bacillus,Bacillus_grandii,2.61,2552.58,,FCM,N,Y
+Arthropoda,Hexapoda,Insecta,Phasmatodea,Phasmatidae,Bacillus,Bacillus_grandii,2.16,2112.48,,FCM,N,Y
+Arthropoda,Hexapoda,Insecta,Phasmatodea,Phasmatidae,Bacillus,Bacillus_rossius,2.17,2122.26,,FCM,N,Y
+Arthropoda,Hexapoda,Insecta,Phasmatodea,Phasmatidae,Bacillus,Bacillus_rossius,1.95,1907.1,,FCM,N,Y
+Arthropoda,Hexapoda,Insecta,Phasmatodea,Phasmatidae,Bacillus,Bacillus_whitei,2.27,2220.06,,FCM,N,Y
+Arthropoda,Hexapoda,Insecta,Phasmatodea,Phasmatidae,Extatosoma,Extatosoma_tiaratum,8,7824,,FD,N,Y
+Arthropoda,Hexapoda,Insecta,Phasmatodea,Pseudophasmatidae,Anisomorpha,Anisomorpha_buprestoides,2.97,2904.66,,FCM,N,Y
+Arthropoda,Hexapoda,Insecta,Phasmatodea,Pseudophasmatidae,Anisomorpha,Anisomorpha_buprestoides,3.01,2944.1,,,N,N
+Arthropoda,Hexapoda,Insecta,Phasmatodea,Timematidae,Timema,Timema_cristinae,1.36,1330.08,,FCM,N,Y
