@@ -9,7 +9,7 @@ library(viridis)
 par(mfrow = c(1,3), mar = c(4.5,4.5,1,1))
 
 # load the post burnin from the MCMC run
-load(file = "../../analysis/results/9.post.burnin.RData")
+load(file = "../../analysis/results/08.post.burnin.RData")
 
 # remove blatodea sensu stricto and isoptera
 post.burnin <- post.burnin[c(-2,-3)]
@@ -36,6 +36,9 @@ counter <- ymin/length(post.burnin)
 
 for(i in 1:length(post.burnin)){
   asc.density <- density(post.burnin[[i]]$asc1)
+  if(i == 3){
+    asc.density <- density(post.burnin[[i]]$asc1, bw = .0075)
+  }
   polygon(asc.density,
           col = cols2[i],
           border = cols[i])
@@ -62,6 +65,9 @@ counter <- ymin/length(post.burnin)
 
 for(i in 1:length(post.burnin)){
   desc.density <- density(post.burnin[[i]]$desc1)
+  if(i == 3){
+    desc.density <- density(post.burnin[[i]]$desc1, bw = .011)
+  }
   polygon(x = desc.density$x, y = desc.density$y,
           col = cols2[i], border = cols[i])
   HPD <- HPDinterval(as.mcmc(post.burnin[[i]]$desc1))
@@ -85,6 +91,9 @@ counter <- ymin/length(post.burnin)
 
 for(i in 1:length(post.burnin)){
   poly.density <- density(post.burnin[[i]]$pol1)
+  if(i == 1){
+    poly.density <- density(post.burnin[[i]]$pol1, bw = .0135)
+  }
   polygon(x = poly.density$x, y = poly.density$y,
           col = cols2[i], border = cols[i])
   HPD <- HPDinterval(as.mcmc(post.burnin[[i]]$pol1))
